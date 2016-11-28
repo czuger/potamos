@@ -1,0 +1,21 @@
+PATH
+  remote: ../rhex
+  specs:
+    rhex (2.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    hazard (1.0.3)
+    rmagick (2.16.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hazard
+  rhex!
+  rmagick
+
+BUNDLED WITH
+   1.13.6
