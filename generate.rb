@@ -31,7 +31,7 @@ p h
 end
 
 element_to_color_hash = {
-  1 => :green, 2 => :yellow, 3 => :brown, 0 => :blue
+  1 => '#ffe680', 2 => '#ffe066', 3 => '#ffdb4d', 0 => '#00a3cc'
 }
 ground.set_element_to_color_hash( element_to_color_hash )
 ground.to_pic( 'test2.png' )
