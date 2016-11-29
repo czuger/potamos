@@ -17,15 +17,21 @@ require_relative 'lib/potamos'
 # Good one :
 srand( 272261806232980611960164374502446273770 )
 
-ground = Ground.new
+ground = Ground.new( 50, 50 )
+ground.to_pic( 'pics/10_desert.jpg' )
+
 potamos = Potamos.new( ground )
-
 potamos.generate
-potamos.colorize
+ground.to_pic( 'pics/20_a_river.jpg' )
 
+ground.nature_grow
+ground.to_pic( 'pics/30_nature_grow.jpg' )
+
+ground.populate
+ground.to_pic( 'pics/40_dwellings.jpg' )
 
 # h.color = -1
-ground.to_pic
+
 
 
 

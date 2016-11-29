@@ -1,5 +1,9 @@
+require_relative 'dwelling'
+
 class GroundHex
+
   attr_accessor :water
+  attr_reader :dwelling
 
   RANDOM_FACTOR = 5
 
@@ -12,13 +16,22 @@ class GroundHex
     @ground_strength * RANDOM_FACTOR
   end
 
-  def color( surrounding_hexes )
+  def set_fertility( surrounding_hexes )
+    unless @water
+      water_around_area = surrounding_hexes.select{ |e| e if e&.data&.water }
+      @fertility = [ water_around_area.count, 3 ].min if water_around_area.count > 0
+    end
+  end
 
+  def set_icon
+    if @fertility == 3
+      @dwelling = Dwelling.new
+    end
+  end
+
+  def color
     return 0 if @water
-    water_in_area = surrounding_hexes.select{ |e| e if e&.data&.water }
-    # p water_in_area if water_in_area.count > 0
-    return 9 + [ water_in_area.count, 3 ].min if water_in_area.count > 0
-
+    return 9 + @fertility if @fertility
     @ground_strength
   end
 

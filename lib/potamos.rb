@@ -3,16 +3,19 @@
 class Potamos
 
   def initialize( ground )
+    @cols = ground.cols
+    @rows = ground.rows
+
     @ground = ground.ground
     @watered_hexes = []
   end
 
   def generate
 
-    @dest_hex = @ground.cget( Ground::COLS/2, Ground::ROWS )
+    @dest_hex = @ground.cget( @cols/2, @rows )
     @dest_hex.data.water = true
 
-    h = @ground.cget( Ground::COLS/2, 1 )
+    h = @ground.cget( @cols/2, 1 )
     h.data.water = true
 
     while( h && h != @dest_hex )
@@ -24,12 +27,6 @@ class Potamos
       end
     end
 
-  end
-
-  def colorize
-    @ground.each do |hex|
-      hex.color = hex.data.color( @ground.h_surrounding_hexes( hex ) )
-    end
   end
 
   private
