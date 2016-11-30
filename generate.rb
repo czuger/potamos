@@ -22,10 +22,8 @@ ground.to_pic( 'pics/10_desert.jpg' )
 
 potamos = Potamos.new( ground )
 potamos.generate
-ground.to_pic( 'pics/20_a_river.jpg' )
-
 ground.nature_grow
-ground.to_pic( 'pics/30_nature_grow.jpg' )
+ground.to_pic( 'pics/20_a_river.jpg' )
 
 ground.populate
 ground.to_pic( 'pics/40_dwellings.jpg' )
