@@ -1,5 +1,7 @@
 class Dwelling
 
+  attr_reader :type
+
   DATA = {
     huts: { icon: 'icons/huts.png', scale: 0.12, xdecal: 11, ydecal: 11 },
     temple: { icon: 'icons/templet.png', scale: 0.1, xdecal: 11, ydecal: 14 },
@@ -8,7 +10,7 @@ class Dwelling
 
   @@data = nil
 
-  def initialize
+  def initialize( type )
 
     unless @@data
       @@data = {}
@@ -25,14 +27,19 @@ class Dwelling
     # village= Magick::ImageList.new( 'icons/village.svg' ).first
     # village.scale!( 0.04 )
 
-    @type = case Hazard.rd8
-      when 8
-        :temple
-      when 7
-        :ruines
-      when 5..6
-        :huts
+    if type == :huts
+      @type = :huts if Hazard.rd2 == 1
+    elsif type == :temple
+      @type = :temple
     end
+  end
+
+  def huts?
+    @type == :huts
+  end
+
+  def wreck
+    @type = :ruines if @type == :temple
   end
 
   def exists?

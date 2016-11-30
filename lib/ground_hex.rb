@@ -19,20 +19,51 @@ class GroundHex
   def set_fertility( surrounding_hexes )
     unless @water
       water_around_area = surrounding_hexes.select{ |e| e if e&.data&.water }
-      @fertility = [ water_around_area.count, 3 ].min if water_around_area.count > 0
+      fertility = [ water_around_area.count, 3 ].min if water_around_area.count > 0
+      @fertility = [ :herb, :grass, :luxurious ][ fertility - 1 ] if fertility
     end
   end
 
-  def set_icon
-    if @fertility == 3
-      @dwelling = Dwelling.new
+  def settlement
+    if @fertility == :luxurious
+      @dwelling = Dwelling.new( :huts )
     end
+  end
+
+  def build_temple( surrounding_hexes )
+    unless @dwelling&.huts? || water
+      villages_count = surrounding_hexes.compact.select{ |e| e.data.dwelling&.huts? }.count
+      if villages_count >= 2
+        @dwelling = Dwelling.new( :temple )
+      end
+    end
+  end
+
+  def wreck
+    @dwelling&.wreck
+  end
+
+  def remove_water
+    @carving = :river_traces if @water
+    @carving = :vegetation_traces if @fertility
+
+    @water = false
+    @fertility = nil
+    @dwelling = nil if @dwelling&.huts?
+  end
+
+  def sand_recover
+    @carving = nil
+    @water = false
+    @fertility = nil
+    @dwelling = nil
   end
 
   def color
-    return 0 if @water
-    return 9 + @fertility if @fertility
-    @ground_strength
+    return :water if @water
+    return @fertility if @fertility
+    return @carving if @carving
+    :sand
   end
 
 end
