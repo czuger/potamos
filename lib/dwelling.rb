@@ -3,9 +3,9 @@ class Dwelling
   attr_reader :type
 
   DATA = {
-    huts: { icon: 'icons/huts.png', scale: 0.12, xdecal: 11, ydecal: 11 },
-    temple: { icon: 'icons/templet.png', scale: 0.1, xdecal: 11, ydecal: 14 },
-    ruines: { icon: 'icons/ruinest.png', scale: 0.12, xdecal: 8, ydecal: 10 },
+    huts: { icon: 'icons/huts.png', scale: 0.12, xdecal: -2, ydecal: -4 },
+    temple: { icon: 'icons/templet.png', scale: 0.1, xdecal: 0, ydecal: 0 },
+    ruines: { icon: 'icons/ruinest.png', scale: 0.12, xdecal: 0, ydecal: 0 },
   }
 
   @@data = nil

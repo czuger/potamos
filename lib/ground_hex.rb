@@ -57,12 +57,15 @@ class GroundHex
     @water = false
     @fertility = nil
     @dwelling = nil
+    @ground_strength = Hazard.d3
   end
 
   def color
     return :water if @water
     return @fertility if @fertility
     return @carving if @carving
+    return :sand_peak if @ground_strength > 2
+    return :sand_high if @ground_strength > 1
     :sand
   end
 

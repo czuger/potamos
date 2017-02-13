@@ -7,7 +7,7 @@ class Ground
   include Magick
   include GroundEvents
 
-  attr_reader :ground, :rows, :cols
+  attr_reader :ground, :rows, :cols, :hex_ray
 
   PIC_NAME = 'test2.png'
 
@@ -18,9 +18,12 @@ class Ground
 
     @ground = SquareGrid.new( element_to_color_hash: {
       # 1 => '#ffe680', 2 => '#ffe066', 3 => '#ffdb4d',
-      :sand => '#ffe680', vegetation_traces: '#ffdb4d', river_traces: '#e0a316',
+      :sand => '#ffe680', :sand_high => '#ffe066', :sand_peak => '#ffdb4d',
+      vegetation_traces: '#ffdb4d', river_traces: '#e0a316',
       water: '#00a3cc', :dark => '#000000',
       herb: '#c2e016', grass: '#96e016', luxurious: '#34e016' } )
+
+    @hex_ray = @ground.hex_ray
 
     1.upto( cols ).each do |q|
       1.upto( rows ).each do |r|
@@ -49,7 +52,7 @@ class Ground
         d = hex.data.dwelling
         x, y = @ground.to_xy( hex )
         # p d
-        canvas = canvas.composite( d.image, x-d.decalx, y-d.decaly, OverCompositeOp )
+        canvas = canvas.composite( d.image, x-d.decalx - @ground.half_width, y-d.decaly - @ground.hex_height/2, OverCompositeOp )
       end
     end
 

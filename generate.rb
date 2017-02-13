@@ -15,9 +15,9 @@ require_relative 'lib/potamos'
 # srand( 192174785237470115019899101558127501028 )
 
 # Good one :
-# srand( 272261806232980611960164374502446273770 )
+srand( 272261806232980611960164374502446273770 )
 
-ground = Ground.new( 50, 50 )
+ground = Ground.new( 20, 30 )
 ground.to_pic( 'pics/10_desert.jpg' )
 
 potamos = Potamos.new( ground )
