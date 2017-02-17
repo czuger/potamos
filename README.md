@@ -8,7 +8,7 @@ This is a sandbox project about lost civilisations.
 ### A river in the desert
 ![river](/pics/20_a_river.jpg)
 
-### Peoples settle here
+### People settle here
 ![dwellings](/pics/40_dwellings.jpg)
 
 ### They build temples
@@ -27,6 +27,7 @@ This is a sandbox project about lost civilisations.
 
 Clone the repo and run
  
+    bundle install
     ruby generate.rb
     
 Results are in the pic directory.
