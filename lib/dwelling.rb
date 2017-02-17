@@ -3,21 +3,21 @@ class Dwelling
   attr_reader :type
 
   DATA = {
-    huts: { icon: 'icons/huts.png', scale: 0.12, xdecal: -2, ydecal: -4 },
-    temple: { icon: 'icons/templet.png', scale: 0.1, xdecal: 0, ydecal: 0 },
-    ruines: { icon: 'icons/ruinest.png', scale: 0.12, xdecal: 0, ydecal: 0 },
+    huts: { icon: 'icons/huts_24.png', scale: 0.12, xdecal: 3, ydecal: 4 },
+    temple: { icon: 'icons/templet_22.png', scale: 0.1, xdecal: 4, ydecal: 3 },
+    ruines: { icon: 'icons/ruinest_20.png', scale: 0.12, xdecal: 5, ydecal: 5 },
   }
 
   @@data = nil
 
-  def initialize( type )
+  def initialize( type, debug: false )
 
     unless @@data
       @@data = {}
       DATA.keys.each do |key|
         @@data[ key ] = DATA[ key ]
         @@data[ key ][ :image ] = Magick::ImageList.new( @@data[ key ][ :icon ] ).first
-        @@data[ key ][ :image ].scale!( @@data[ key ][ :scale ] )
+        # @@data[ key ][ :image ].scale!( @@data[ key ][ :scale ] )
       end
     end
 
@@ -28,7 +28,7 @@ class Dwelling
     # village.scale!( 0.04 )
 
     if type == :huts
-      @type = :huts if Hazard.rd2 == 1
+      @type = :huts if debug || Hazard.rd2 == 1
     elsif type == :temple
       @type = :temple
     end

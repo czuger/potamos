@@ -11,7 +11,7 @@ class Ground
 
   PIC_NAME = 'test2.png'
 
-  def initialize( rows, cols )
+  def initialize( rows, cols, debug: false )
 
     @rows = rows
     @cols = cols
@@ -27,7 +27,7 @@ class Ground
 
     1.upto( cols ).each do |q|
       1.upto( rows ).each do |r|
-        @ground.cset( q, r, data: GroundHex.new )
+        @ground.cset( q, r, data: GroundHex.new( debug: debug ) )
       end
     end
 
@@ -52,7 +52,7 @@ class Ground
         d = hex.data.dwelling
         x, y = @ground.to_xy( hex )
         # p d
-        canvas = canvas.composite( d.image, x-d.decalx - @ground.half_width, y-d.decaly - @ground.hex_height/2, OverCompositeOp )
+        canvas = canvas.composite( d.image, x + d.decalx - @ground.half_width, y + d.decaly - @ground.hex_height/2, OverCompositeOp )
       end
     end
 

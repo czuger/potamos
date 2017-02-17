@@ -7,9 +7,10 @@ class GroundHex
 
   RANDOM_FACTOR = 5
 
-  def initialize
+  def initialize( debug: false )
     @ground_strength = Hazard.d3
     @water = false
+    @debug = debug
   end
 
   def ground_deviation
@@ -25,8 +26,8 @@ class GroundHex
   end
 
   def settlement
-    if @fertility == :luxurious
-      @dwelling = Dwelling.new( :huts )
+    if @debug || @fertility == :luxurious
+      @dwelling = Dwelling.new( :huts, debug: @debug )
     end
   end
 
