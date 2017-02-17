@@ -30,4 +30,4 @@ Clone the repo and run
     bundle install
     ruby generate.rb
     
-Results are in the pic directory.
+Results are in the pics directory.
