@@ -3,6 +3,6 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-gem 'rhex', path: '../rhex'
+gem 'rhex'
 gem 'hazard'
 gem 'rmagick'
