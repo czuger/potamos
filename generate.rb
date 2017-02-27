@@ -29,6 +29,9 @@ srand( new_seed )
 # River 2 :
 # srand( 188247585953115603880262365309431988759 )
 
+# Temples pack
+# 297562904974323063116791061356298192229
+
 ground = Ground.new( 30, 20, debug: false )
 ground.to_pic( 'pics/10_desert.jpg' )
 

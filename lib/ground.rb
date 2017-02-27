@@ -25,8 +25,8 @@ class Ground
 
     @hex_ray = @ground.hex_ray
 
-    1.upto( cols ).each do |q|
-      1.upto( rows ).each do |r|
+    ( 0 ... cols ).each do |q|
+      ( 0 ... rows ).each do |r|
         @ground.cset( q, r, data: GroundHex.new( debug: debug ) )
       end
     end

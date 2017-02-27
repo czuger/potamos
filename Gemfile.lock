@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     hazard (1.0.3)
-    rhex (1.2.3)
+    rhex (2.0.2)
     rmagick (2.16.0)
 
 PLATFORMS

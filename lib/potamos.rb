@@ -12,7 +12,9 @@ class Potamos
 
   def generate
 
-    @dest_hex = @ground.cget( @cols/2, @rows )
+    # p @ground
+
+    @dest_hex = @ground.cget( @cols/2, @rows-1 )
     @dest_hex.data.water = true
 
     h = @ground.cget( @cols/2, 1 )
