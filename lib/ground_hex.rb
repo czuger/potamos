@@ -70,4 +70,8 @@ class GroundHex
     :sand
   end
 
+  def to_hash
+    { ground_strength: @ground_strength, water: @water, dwelling: @dwelling&.to_hash, fertility: @fertility, carving: @carving }
+  end
+
 end

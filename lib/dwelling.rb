@@ -58,4 +58,8 @@ class Dwelling
     @@data[ @type ][ :ydecal ]
   end
 
+  def to_hash
+    { type: @type }
+  end
+
 end

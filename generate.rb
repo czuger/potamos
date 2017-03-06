@@ -45,6 +45,7 @@ ground.to_pic( 'pics/40_dwellings.jpg' )
 
 ground.temples
 ground.to_pic( 'pics/50_temples.jpg' )
+ground.write( 'test.json' )
 
 ground.cataclysm
 ground.to_pic( 'pics/60_cataclysm.jpg' )

@@ -59,4 +59,11 @@ class Ground
     canvas.write( pic_name )
   end
 
+  def write( filename )
+    File.open( filename, 'w' ) do |f|
+      p @ground.to_hash
+      f.puts( JSON.pretty_generate( @ground.to_hash ) )
+    end
+  end
+
 end
