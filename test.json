@@ -2,10 +2,10 @@
   "[0, 0]": {
     "q": 0,
     "r": 0,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -28,10 +28,10 @@
   "[-1, 2]": {
     "q": -1,
     "r": 2,
-    "color": "sand_peak",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -41,10 +41,10 @@
   "[-1, 3]": {
     "q": -1,
     "r": 3,
-    "color": "sand",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -80,10 +80,10 @@
   "[-3, 6]": {
     "q": -3,
     "r": 6,
-    "color": "sand_high",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -93,10 +93,10 @@
   "[-3, 7]": {
     "q": -3,
     "r": 7,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -119,10 +119,10 @@
   "[-4, 9]": {
     "q": -4,
     "r": 9,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -132,19 +132,6 @@
   "[-5, 10]": {
     "q": -5,
     "r": 10,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-5, 11]": {
-    "q": -5,
-    "r": 11,
     "color": "sand_peak",
     "border": null,
     "data": {
@@ -155,13 +142,26 @@
       "carving": null
     }
   },
+  "[-5, 11]": {
+    "q": -5,
+    "r": 11,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
   "[-6, 12]": {
     "q": -6,
     "r": 12,
-    "color": "sand",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -210,10 +210,10 @@
   "[-8, 16]": {
     "q": -8,
     "r": 16,
-    "color": "sand_high",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -223,10 +223,10 @@
   "[-8, 17]": {
     "q": -8,
     "r": 17,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -236,10 +236,10 @@
   "[-9, 18]": {
     "q": -9,
     "r": 18,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -262,10 +262,10 @@
   "[-10, 20]": {
     "q": -10,
     "r": 20,
-    "color": "sand_high",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -275,10 +275,10 @@
   "[-10, 21]": {
     "q": -10,
     "r": 21,
-    "color": "sand",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -288,10 +288,10 @@
   "[-11, 22]": {
     "q": -11,
     "r": 22,
-    "color": "sand",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -340,19 +340,6 @@
   "[-13, 26]": {
     "q": -13,
     "r": 26,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-13, 27]": {
-    "q": -13,
-    "r": 27,
     "color": "sand_peak",
     "border": null,
     "data": {
@@ -363,13 +350,26 @@
       "carving": null
     }
   },
-  "[-14, 28]": {
-    "q": -14,
-    "r": 28,
+  "[-13, 27]": {
+    "q": -13,
+    "r": 27,
     "color": "sand_high",
     "border": null,
     "data": {
       "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-14, 28]": {
+    "q": -14,
+    "r": 28,
+    "color": "sand_peak",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -405,10 +405,10 @@
   "[1, 1]": {
     "q": 1,
     "r": 1,
-    "color": "sand_high",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -431,45 +431,6 @@
   "[0, 3]": {
     "q": 0,
     "r": 3,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-1, 4]": {
-    "q": -1,
-    "r": 4,
-    "color": "sand",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-1, 5]": {
-    "q": -1,
-    "r": 5,
-    "color": "sand",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-2, 6]": {
-    "q": -2,
-    "r": 6,
     "color": "sand_high",
     "border": null,
     "data": {
@@ -480,9 +441,35 @@
       "carving": null
     }
   },
-  "[-2, 7]": {
+  "[-1, 4]": {
+    "q": -1,
+    "r": 4,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-1, 5]": {
+    "q": -1,
+    "r": 5,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-2, 6]": {
     "q": -2,
-    "r": 7,
+    "r": 6,
     "color": "sand",
     "border": null,
     "data": {
@@ -493,9 +480,9 @@
       "carving": null
     }
   },
-  "[-3, 8]": {
-    "q": -3,
-    "r": 8,
+  "[-2, 7]": {
+    "q": -2,
+    "r": 7,
     "color": "sand_peak",
     "border": null,
     "data": {
@@ -506,13 +493,26 @@
       "carving": null
     }
   },
+  "[-3, 8]": {
+    "q": -3,
+    "r": 8,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
   "[-3, 9]": {
     "q": -3,
     "r": 9,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -535,10 +535,10 @@
   "[-4, 11]": {
     "q": -4,
     "r": 11,
-    "color": "sand",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -561,10 +561,10 @@
   "[-5, 13]": {
     "q": -5,
     "r": 13,
-    "color": "sand",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -613,10 +613,10 @@
   "[-7, 17]": {
     "q": -7,
     "r": 17,
-    "color": "sand_high",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -639,10 +639,10 @@
   "[-8, 19]": {
     "q": -8,
     "r": 19,
-    "color": "sand_high",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -652,10 +652,10 @@
   "[-9, 20]": {
     "q": -9,
     "r": 20,
-    "color": "sand",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -704,10 +704,10 @@
   "[-11, 24]": {
     "q": -11,
     "r": 24,
-    "color": "sand",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -743,10 +743,10 @@
   "[-12, 27]": {
     "q": -12,
     "r": 27,
-    "color": "sand",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -756,10 +756,10 @@
   "[-13, 28]": {
     "q": -13,
     "r": 28,
-    "color": "sand",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -769,10 +769,10 @@
   "[-13, 29]": {
     "q": -13,
     "r": 29,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -782,10 +782,10 @@
   "[2, 0]": {
     "q": 2,
     "r": 0,
-    "color": "sand_peak",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -795,10 +795,10 @@
   "[2, 1]": {
     "q": 2,
     "r": 1,
-    "color": "sand",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -821,10 +821,10 @@
   "[1, 3]": {
     "q": 1,
     "r": 3,
-    "color": "sand",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -847,10 +847,10 @@
   "[0, 5]": {
     "q": 0,
     "r": 5,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -873,6 +873,19 @@
   "[-1, 7]": {
     "q": -1,
     "r": 7,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-2, 8]": {
+    "q": -2,
+    "r": 8,
     "color": "sand_peak",
     "border": null,
     "data": {
@@ -883,26 +896,13 @@
       "carving": null
     }
   },
-  "[-2, 8]": {
+  "[-2, 9]": {
     "q": -2,
-    "r": 8,
+    "r": 9,
     "color": "sand_high",
     "border": null,
     "data": {
       "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-2, 9]": {
-    "q": -2,
-    "r": 9,
-    "color": "sand",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -925,10 +925,10 @@
   "[-3, 11]": {
     "q": -3,
     "r": 11,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -938,10 +938,10 @@
   "[-4, 12]": {
     "q": -4,
     "r": 12,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -964,10 +964,10 @@
   "[-5, 14]": {
     "q": -5,
     "r": 14,
-    "color": "sand",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -977,10 +977,10 @@
   "[-5, 15]": {
     "q": -5,
     "r": 15,
-    "color": "sand",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -990,45 +990,6 @@
   "[-6, 16]": {
     "q": -6,
     "r": 16,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-6, 17]": {
-    "q": -6,
-    "r": 17,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-7, 18]": {
-    "q": -7,
-    "r": 18,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-7, 19]": {
-    "q": -7,
-    "r": 19,
     "color": "sand",
     "border": null,
     "data": {
@@ -1039,13 +1000,52 @@
       "carving": null
     }
   },
-  "[-8, 20]": {
-    "q": -8,
-    "r": 20,
+  "[-6, 17]": {
+    "q": -6,
+    "r": 17,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-7, 18]": {
+    "q": -7,
+    "r": 18,
     "color": "sand_peak",
     "border": null,
     "data": {
       "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-7, 19]": {
+    "q": -7,
+    "r": 19,
+    "color": "sand_peak",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-8, 20]": {
+    "q": -8,
+    "r": 20,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1068,10 +1068,10 @@
   "[-9, 22]": {
     "q": -9,
     "r": 22,
-    "color": "sand_high",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1094,10 +1094,10 @@
   "[-10, 24]": {
     "q": -10,
     "r": 24,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1107,10 +1107,10 @@
   "[-10, 25]": {
     "q": -10,
     "r": 25,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1159,10 +1159,10 @@
   "[-12, 29]": {
     "q": -12,
     "r": 29,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1172,10 +1172,10 @@
   "[3, 0]": {
     "q": 3,
     "r": 0,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1224,10 +1224,10 @@
   "[1, 4]": {
     "q": 1,
     "r": 4,
-    "color": "sand",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1250,10 +1250,10 @@
   "[0, 6]": {
     "q": 0,
     "r": 6,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1276,10 +1276,10 @@
   "[-1, 8]": {
     "q": -1,
     "r": 8,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1289,10 +1289,10 @@
   "[-1, 9]": {
     "q": -1,
     "r": 9,
-    "color": "sand_peak",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1302,10 +1302,10 @@
   "[-2, 10]": {
     "q": -2,
     "r": 10,
-    "color": "sand_peak",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1341,10 +1341,10 @@
   "[-3, 13]": {
     "q": -3,
     "r": 13,
-    "color": "sand",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1354,10 +1354,10 @@
   "[-4, 14]": {
     "q": -4,
     "r": 14,
-    "color": "sand",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1380,19 +1380,6 @@
   "[-5, 16]": {
     "q": -5,
     "r": 16,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-5, 17]": {
-    "q": -5,
-    "r": 17,
     "color": "sand",
     "border": null,
     "data": {
@@ -1403,13 +1390,26 @@
       "carving": null
     }
   },
-  "[-6, 18]": {
-    "q": -6,
-    "r": 18,
+  "[-5, 17]": {
+    "q": -5,
+    "r": 17,
     "color": "sand_high",
     "border": null,
     "data": {
       "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-6, 18]": {
+    "q": -6,
+    "r": 18,
+    "color": "sand_peak",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1445,6 +1445,32 @@
   "[-7, 21]": {
     "q": -7,
     "r": 21,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-8, 22]": {
+    "q": -8,
+    "r": 22,
+    "color": "sand_peak",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-8, 23]": {
+    "q": -8,
+    "r": 23,
     "color": "sand_high",
     "border": null,
     "data": {
@@ -1455,39 +1481,13 @@
       "carving": null
     }
   },
-  "[-8, 22]": {
-    "q": -8,
-    "r": 22,
-    "color": "sand",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-8, 23]": {
-    "q": -8,
-    "r": 23,
-    "color": "sand",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
   "[-9, 24]": {
     "q": -9,
     "r": 24,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1510,10 +1510,10 @@
   "[-10, 26]": {
     "q": -10,
     "r": 26,
-    "color": "sand_peak",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1523,10 +1523,10 @@
   "[-10, 27]": {
     "q": -10,
     "r": 27,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1536,10 +1536,10 @@
   "[-11, 28]": {
     "q": -11,
     "r": 28,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1549,10 +1549,10 @@
   "[-11, 29]": {
     "q": -11,
     "r": 29,
-    "color": "sand_high",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1575,10 +1575,10 @@
   "[4, 1]": {
     "q": 4,
     "r": 1,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1614,10 +1614,10 @@
   "[2, 4]": {
     "q": 2,
     "r": 4,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1653,10 +1653,10 @@
   "[1, 7]": {
     "q": 1,
     "r": 7,
-    "color": "sand",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1666,6 +1666,19 @@
   "[0, 8]": {
     "q": 0,
     "r": 8,
+    "color": "sand_peak",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[0, 9]": {
+    "q": 0,
+    "r": 9,
     "color": "sand",
     "border": null,
     "data": {
@@ -1676,9 +1689,9 @@
       "carving": null
     }
   },
-  "[0, 9]": {
-    "q": 0,
-    "r": 9,
+  "[-1, 10]": {
+    "q": -1,
+    "r": 10,
     "color": "sand_high",
     "border": null,
     "data": {
@@ -1689,26 +1702,13 @@
       "carving": null
     }
   },
-  "[-1, 10]": {
+  "[-1, 11]": {
     "q": -1,
-    "r": 10,
+    "r": 11,
     "color": "sand",
     "border": null,
     "data": {
       "ground_strength": 1,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-1, 11]": {
-    "q": -1,
-    "r": 11,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1731,10 +1731,10 @@
   "[-2, 13]": {
     "q": -2,
     "r": 13,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1757,6 +1757,32 @@
   "[-3, 15]": {
     "q": -3,
     "r": 15,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-4, 16]": {
+    "q": -4,
+    "r": 16,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-4, 17]": {
+    "q": -4,
+    "r": 17,
     "color": "sand_peak",
     "border": null,
     "data": {
@@ -1767,39 +1793,13 @@
       "carving": null
     }
   },
-  "[-4, 16]": {
-    "q": -4,
-    "r": 16,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-4, 17]": {
-    "q": -4,
-    "r": 17,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
   "[-5, 18]": {
     "q": -5,
     "r": 18,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1822,10 +1822,10 @@
   "[-6, 20]": {
     "q": -6,
     "r": 20,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1835,10 +1835,10 @@
   "[-6, 21]": {
     "q": -6,
     "r": 21,
-    "color": "sand_peak",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1861,10 +1861,10 @@
   "[-7, 23]": {
     "q": -7,
     "r": 23,
-    "color": "sand",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1874,10 +1874,10 @@
   "[-8, 24]": {
     "q": -8,
     "r": 24,
-    "color": "sand_high",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1939,10 +1939,10 @@
   "[-10, 29]": {
     "q": -10,
     "r": 29,
-    "color": "sand",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -1952,32 +1952,6 @@
   "[5, 0]": {
     "q": 5,
     "r": 0,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[5, 1]": {
-    "q": 5,
-    "r": 1,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[4, 2]": {
-    "q": 4,
-    "r": 2,
     "color": "sand_peak",
     "border": null,
     "data": {
@@ -1988,9 +1962,22 @@
       "carving": null
     }
   },
-  "[4, 3]": {
+  "[5, 1]": {
+    "q": 5,
+    "r": 1,
+    "color": "herb",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": "herb",
+      "carving": null
+    }
+  },
+  "[4, 2]": {
     "q": 4,
-    "r": 3,
+    "r": 2,
     "color": "sand",
     "border": null,
     "data": {
@@ -2001,13 +1988,26 @@
       "carving": null
     }
   },
+  "[4, 3]": {
+    "q": 4,
+    "r": 3,
+    "color": "sand_peak",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
   "[3, 4]": {
     "q": 3,
     "r": 4,
-    "color": "sand_high",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -2017,10 +2017,10 @@
   "[3, 5]": {
     "q": 3,
     "r": 5,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -2043,32 +2043,19 @@
   "[2, 7]": {
     "q": 2,
     "r": 7,
-    "color": "sand_peak",
+    "color": "herb",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "herb",
       "carving": null
     }
   },
   "[1, 8]": {
     "q": 1,
     "r": 8,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[1, 9]": {
-    "q": 1,
-    "r": 9,
     "color": "sand",
     "border": null,
     "data": {
@@ -2079,13 +2066,26 @@
       "carving": null
     }
   },
+  "[1, 9]": {
+    "q": 1,
+    "r": 9,
+    "color": "sand_peak",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
   "[0, 10]": {
     "q": 0,
     "r": 10,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -2095,10 +2095,10 @@
   "[0, 11]": {
     "q": 0,
     "r": 11,
-    "color": "sand_peak",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -2134,10 +2134,10 @@
   "[-2, 14]": {
     "q": -2,
     "r": 14,
-    "color": "sand_high",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -2147,10 +2147,10 @@
   "[-2, 15]": {
     "q": -2,
     "r": 15,
-    "color": "sand",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -2160,10 +2160,10 @@
   "[-3, 16]": {
     "q": -3,
     "r": 16,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -2173,58 +2173,6 @@
   "[-3, 17]": {
     "q": -3,
     "r": 17,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-4, 18]": {
-    "q": -4,
-    "r": 18,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-4, 19]": {
-    "q": -4,
-    "r": 19,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-5, 20]": {
-    "q": -5,
-    "r": 20,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-5, 21]": {
-    "q": -5,
-    "r": 21,
     "color": "sand",
     "border": null,
     "data": {
@@ -2235,9 +2183,48 @@
       "carving": null
     }
   },
-  "[-6, 22]": {
-    "q": -6,
-    "r": 22,
+  "[-4, 18]": {
+    "q": -4,
+    "r": 18,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-4, 19]": {
+    "q": -4,
+    "r": 19,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-5, 20]": {
+    "q": -5,
+    "r": 20,
+    "color": "sand_peak",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-5, 21]": {
+    "q": -5,
+    "r": 21,
     "color": "sand_high",
     "border": null,
     "data": {
@@ -2248,13 +2235,26 @@
       "carving": null
     }
   },
-  "[-6, 23]": {
+  "[-6, 22]": {
     "q": -6,
-    "r": 23,
+    "r": 22,
     "color": "sand_peak",
     "border": null,
     "data": {
       "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-6, 23]": {
+    "q": -6,
+    "r": 23,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -2277,10 +2277,10 @@
   "[-7, 25]": {
     "q": -7,
     "r": 25,
-    "color": "sand_peak",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -2290,10 +2290,10 @@
   "[-8, 26]": {
     "q": -8,
     "r": 26,
-    "color": "sand_peak",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -2303,10 +2303,10 @@
   "[-8, 27]": {
     "q": -8,
     "r": 27,
-    "color": "sand_peak",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -2342,24 +2342,24 @@
   "[6, 0]": {
     "q": 6,
     "r": 0,
-    "color": "sand",
+    "color": "herb",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "herb",
       "carving": null
     }
   },
   "[6, 1]": {
     "q": 6,
     "r": 1,
-    "color": "sand",
+    "color": "water",
     "border": null,
     "data": {
       "ground_strength": 1,
-      "water": false,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -2368,76 +2368,82 @@
   "[5, 2]": {
     "q": 5,
     "r": 2,
-    "color": "sand_peak",
+    "color": "grass",
     "border": null,
     "data": {
       "ground_strength": 3,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "grass",
       "carving": null
     }
   },
   "[5, 3]": {
     "q": 5,
     "r": 3,
-    "color": "sand_high",
+    "color": "luxurious",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
-      "dwelling": null,
-      "fertility": null,
+      "dwelling": {
+        "type": "huts"
+      },
+      "fertility": "luxurious",
       "carving": null
     }
   },
   "[4, 4]": {
     "q": 4,
     "r": 4,
-    "color": "sand_peak",
+    "color": "herb",
     "border": null,
     "data": {
       "ground_strength": 3,
       "water": false,
-      "dwelling": null,
-      "fertility": null,
+      "dwelling": {
+        "type": "temple"
+      },
+      "fertility": "herb",
       "carving": null
     }
   },
   "[4, 5]": {
     "q": 4,
     "r": 5,
-    "color": "sand_high",
+    "color": "luxurious",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
-      "dwelling": null,
-      "fertility": null,
+      "dwelling": {
+        "type": "huts"
+      },
+      "fertility": "luxurious",
       "carving": null
     }
   },
   "[3, 6]": {
     "q": 3,
     "r": 6,
-    "color": "sand_peak",
+    "color": "grass",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "grass",
       "carving": null
     }
   },
   "[3, 7]": {
     "q": 3,
     "r": 7,
-    "color": "sand_peak",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 3,
-      "water": false,
+      "ground_strength": 1,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -2446,36 +2452,36 @@
   "[2, 8]": {
     "q": 2,
     "r": 8,
-    "color": "sand_peak",
+    "color": "grass",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "grass",
       "carving": null
     }
   },
   "[2, 9]": {
     "q": 2,
     "r": 9,
-    "color": "sand_high",
+    "color": "grass",
     "border": null,
     "data": {
       "ground_strength": 2,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "grass",
       "carving": null
     }
   },
   "[1, 10]": {
     "q": 1,
     "r": 10,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -2485,49 +2491,49 @@
   "[1, 11]": {
     "q": 1,
     "r": 11,
-    "color": "sand",
+    "color": "grass",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "grass",
       "carving": null
     }
   },
   "[0, 12]": {
     "q": 0,
     "r": 12,
-    "color": "sand_peak",
+    "color": "herb",
     "border": null,
     "data": {
       "ground_strength": 3,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "herb",
       "carving": null
     }
   },
   "[0, 13]": {
     "q": 0,
     "r": 13,
-    "color": "sand_peak",
+    "color": "grass",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "grass",
       "carving": null
     }
   },
   "[-1, 14]": {
     "q": -1,
     "r": 14,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -2550,10 +2556,10 @@
   "[-2, 16]": {
     "q": -2,
     "r": 16,
-    "color": "sand_peak",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -2589,10 +2595,10 @@
   "[-3, 19]": {
     "q": -3,
     "r": 19,
-    "color": "sand",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -2667,6 +2673,19 @@
   "[-6, 25]": {
     "q": -6,
     "r": 25,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-7, 26]": {
+    "q": -7,
+    "r": 26,
     "color": "sand_peak",
     "border": null,
     "data": {
@@ -2677,26 +2696,13 @@
       "carving": null
     }
   },
-  "[-7, 26]": {
-    "q": -7,
-    "r": 26,
-    "color": "sand",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
   "[-7, 27]": {
     "q": -7,
     "r": 27,
-    "color": "sand",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -2732,24 +2738,24 @@
   "[7, 0]": {
     "q": 7,
     "r": 0,
-    "color": "sand_high",
+    "color": "grass",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "grass",
       "carving": null
     }
   },
   "[7, 1]": {
     "q": 7,
     "r": 1,
-    "color": "sand_high",
+    "color": "water",
     "border": null,
     "data": {
       "ground_strength": 2,
-      "water": false,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -2758,11 +2764,11 @@
   "[6, 2]": {
     "q": 6,
     "r": 2,
-    "color": "sand_high",
+    "color": "water",
     "border": null,
     "data": {
       "ground_strength": 2,
-      "water": false,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -2771,11 +2777,11 @@
   "[6, 3]": {
     "q": 6,
     "r": 3,
-    "color": "sand",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 1,
-      "water": false,
+      "ground_strength": 2,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -2784,11 +2790,11 @@
   "[5, 4]": {
     "q": 5,
     "r": 4,
-    "color": "sand_high",
+    "color": "water",
     "border": null,
     "data": {
       "ground_strength": 2,
-      "water": false,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -2797,11 +2803,11 @@
   "[5, 5]": {
     "q": 5,
     "r": 5,
-    "color": "sand_peak",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 3,
-      "water": false,
+      "ground_strength": 1,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -2810,11 +2816,11 @@
   "[4, 6]": {
     "q": 4,
     "r": 6,
-    "color": "sand",
+    "color": "water",
     "border": null,
     "data": {
       "ground_strength": 1,
-      "water": false,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -2823,24 +2829,26 @@
   "[4, 7]": {
     "q": 4,
     "r": 7,
-    "color": "sand_peak",
+    "color": "luxurious",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
-      "dwelling": null,
-      "fertility": null,
+      "dwelling": {
+        "type": "huts"
+      },
+      "fertility": "luxurious",
       "carving": null
     }
   },
   "[3, 8]": {
     "q": 3,
     "r": 8,
-    "color": "sand_peak",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 3,
-      "water": false,
+      "ground_strength": 1,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -2849,11 +2857,11 @@
   "[3, 9]": {
     "q": 3,
     "r": 9,
-    "color": "sand_peak",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 3,
-      "water": false,
+      "ground_strength": 1,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -2862,24 +2870,26 @@
   "[2, 10]": {
     "q": 2,
     "r": 10,
-    "color": "sand",
+    "color": "luxurious",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
-      "dwelling": null,
-      "fertility": null,
+      "dwelling": {
+        "type": null
+      },
+      "fertility": "luxurious",
       "carving": null
     }
   },
   "[2, 11]": {
     "q": 2,
     "r": 11,
-    "color": "sand",
+    "color": "water",
     "border": null,
     "data": {
       "ground_strength": 1,
-      "water": false,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -2888,11 +2898,11 @@
   "[1, 12]": {
     "q": 1,
     "r": 12,
-    "color": "sand",
+    "color": "water",
     "border": null,
     "data": {
       "ground_strength": 1,
-      "water": false,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -2901,11 +2911,11 @@
   "[1, 13]": {
     "q": 1,
     "r": 13,
-    "color": "sand_high",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 2,
-      "water": false,
+      "ground_strength": 1,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -2914,36 +2924,36 @@
   "[0, 14]": {
     "q": 0,
     "r": 14,
-    "color": "sand",
+    "color": "grass",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "grass",
       "carving": null
     }
   },
   "[0, 15]": {
     "q": 0,
     "r": 15,
-    "color": "sand",
+    "color": "herb",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "herb",
       "carving": null
     }
   },
   "[-1, 16]": {
     "q": -1,
     "r": 16,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -2953,10 +2963,10 @@
   "[-1, 17]": {
     "q": -1,
     "r": 17,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -2966,10 +2976,10 @@
   "[-2, 18]": {
     "q": -2,
     "r": 18,
-    "color": "sand_peak",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -2992,32 +3002,6 @@
   "[-3, 20]": {
     "q": -3,
     "r": 20,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-3, 21]": {
-    "q": -3,
-    "r": 21,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-4, 22]": {
-    "q": -4,
-    "r": 22,
     "color": "sand",
     "border": null,
     "data": {
@@ -3028,13 +3012,39 @@
       "carving": null
     }
   },
-  "[-4, 23]": {
+  "[-3, 21]": {
+    "q": -3,
+    "r": 21,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-4, 22]": {
     "q": -4,
-    "r": 23,
+    "r": 22,
     "color": "sand_peak",
     "border": null,
     "data": {
       "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-4, 23]": {
+    "q": -4,
+    "r": 23,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -3057,10 +3067,10 @@
   "[-5, 25]": {
     "q": -5,
     "r": 25,
-    "color": "sand",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -3070,10 +3080,10 @@
   "[-6, 26]": {
     "q": -6,
     "r": 26,
-    "color": "sand",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -3122,24 +3132,24 @@
   "[8, 0]": {
     "q": 8,
     "r": 0,
-    "color": "sand",
+    "color": "grass",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "grass",
       "carving": null
     }
   },
   "[8, 1]": {
     "q": 8,
     "r": 1,
-    "color": "sand_peak",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 3,
-      "water": false,
+      "ground_strength": 2,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -3148,65 +3158,69 @@
   "[7, 2]": {
     "q": 7,
     "r": 2,
-    "color": "sand",
+    "color": "luxurious",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
-      "dwelling": null,
-      "fertility": null,
+      "dwelling": {
+        "type": "huts"
+      },
+      "fertility": "luxurious",
       "carving": null
     }
   },
   "[7, 3]": {
     "q": 7,
     "r": 3,
-    "color": "sand_peak",
+    "color": "herb",
     "border": null,
     "data": {
       "ground_strength": 3,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "herb",
       "carving": null
     }
   },
   "[6, 4]": {
     "q": 6,
     "r": 4,
-    "color": "sand",
+    "color": "luxurious",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
-      "dwelling": null,
-      "fertility": null,
+      "dwelling": {
+        "type": null
+      },
+      "fertility": "luxurious",
       "carving": null
     }
   },
   "[6, 5]": {
     "q": 6,
     "r": 5,
-    "color": "sand_peak",
+    "color": "herb",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "herb",
       "carving": null
     }
   },
   "[5, 6]": {
     "q": 5,
     "r": 6,
-    "color": "sand_high",
+    "color": "grass",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "grass",
       "carving": null
     }
   },
@@ -3226,37 +3240,37 @@
   "[4, 8]": {
     "q": 4,
     "r": 8,
-    "color": "sand",
+    "color": "grass",
     "border": null,
     "data": {
       "ground_strength": 1,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "grass",
       "carving": null
     }
   },
   "[4, 9]": {
     "q": 4,
     "r": 9,
-    "color": "sand",
+    "color": "grass",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "grass",
       "carving": null
     }
   },
   "[3, 10]": {
     "q": 3,
     "r": 10,
-    "color": "sand_peak",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 3,
-      "water": false,
+      "ground_strength": 1,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -3265,50 +3279,54 @@
   "[3, 11]": {
     "q": 3,
     "r": 11,
-    "color": "sand_peak",
+    "color": "grass",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "grass",
       "carving": null
     }
   },
   "[2, 12]": {
     "q": 2,
     "r": 12,
-    "color": "sand",
+    "color": "luxurious",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
-      "dwelling": null,
-      "fertility": null,
+      "dwelling": {
+        "type": "huts"
+      },
+      "fertility": "luxurious",
       "carving": null
     }
   },
   "[2, 13]": {
     "q": 2,
     "r": 13,
-    "color": "sand_peak",
+    "color": "luxurious",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
-      "dwelling": null,
-      "fertility": null,
+      "dwelling": {
+        "type": null
+      },
+      "fertility": "luxurious",
       "carving": null
     }
   },
   "[1, 14]": {
     "q": 1,
     "r": 14,
-    "color": "sand",
+    "color": "water",
     "border": null,
     "data": {
       "ground_strength": 1,
-      "water": false,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -3317,23 +3335,23 @@
   "[1, 15]": {
     "q": 1,
     "r": 15,
-    "color": "sand",
+    "color": "grass",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "grass",
       "carving": null
     }
   },
   "[0, 16]": {
     "q": 0,
     "r": 16,
-    "color": "sand",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -3343,13 +3361,13 @@
   "[0, 17]": {
     "q": 0,
     "r": 17,
-    "color": "sand_peak",
+    "color": "herb",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "herb",
       "carving": null
     }
   },
@@ -3421,10 +3439,10 @@
   "[-3, 23]": {
     "q": -3,
     "r": 23,
-    "color": "sand_peak",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -3434,10 +3452,10 @@
   "[-4, 24]": {
     "q": -4,
     "r": 24,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -3447,10 +3465,10 @@
   "[-4, 25]": {
     "q": -4,
     "r": 25,
-    "color": "sand",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -3473,10 +3491,10 @@
   "[-5, 27]": {
     "q": -5,
     "r": 27,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -3499,19 +3517,6 @@
   "[-6, 29]": {
     "q": -6,
     "r": 29,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[9, 0]": {
-    "q": 9,
-    "r": 0,
     "color": "sand",
     "border": null,
     "data": {
@@ -3522,39 +3527,54 @@
       "carving": null
     }
   },
+  "[9, 0]": {
+    "q": 9,
+    "r": 0,
+    "color": "luxurious",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": {
+        "type": null
+      },
+      "fertility": "luxurious",
+      "carving": null
+    }
+  },
   "[9, 1]": {
     "q": 9,
     "r": 1,
-    "color": "herb",
+    "color": "water",
     "border": null,
     "data": {
       "ground_strength": 1,
-      "water": false,
+      "water": true,
       "dwelling": null,
-      "fertility": "herb",
+      "fertility": null,
       "carving": null
     }
   },
   "[8, 2]": {
     "q": 8,
     "r": 2,
-    "color": "sand_high",
+    "color": "grass",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "grass",
       "carving": null
     }
   },
   "[8, 3]": {
     "q": 8,
     "r": 3,
-    "color": "sand_peak",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -3590,10 +3610,10 @@
   "[6, 6]": {
     "q": 6,
     "r": 6,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -3629,13 +3649,13 @@
   "[5, 9]": {
     "q": 5,
     "r": 9,
-    "color": "grass",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
-      "fertility": "grass",
+      "fertility": null,
       "carving": null
     }
   },
@@ -3645,7 +3665,7 @@
     "color": "herb",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": "herb",
@@ -3655,6 +3675,60 @@
   "[4, 11]": {
     "q": 4,
     "r": 11,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[3, 12]": {
+    "q": 3,
+    "r": 12,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[3, 13]": {
+    "q": 3,
+    "r": 13,
+    "color": "luxurious",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": {
+        "type": null
+      },
+      "fertility": "luxurious",
+      "carving": null
+    }
+  },
+  "[2, 14]": {
+    "q": 2,
+    "r": 14,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[2, 15]": {
+    "q": 2,
+    "r": 15,
     "color": "luxurious",
     "border": null,
     "data": {
@@ -3667,117 +3741,65 @@
       "carving": null
     }
   },
-  "[3, 12]": {
-    "q": 3,
-    "r": 12,
-    "color": "herb",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": "herb",
-      "carving": null
-    }
-  },
-  "[3, 13]": {
-    "q": 3,
-    "r": 13,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
-      "carving": null
-    }
-  },
-  "[2, 14]": {
-    "q": 2,
-    "r": 14,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[2, 15]": {
-    "q": 2,
-    "r": 15,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
-      "carving": null
-    }
-  },
   "[1, 16]": {
     "q": 1,
     "r": 16,
-    "color": "herb",
+    "color": "grass",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
-      "fertility": "herb",
+      "fertility": "grass",
       "carving": null
     }
   },
   "[1, 17]": {
     "q": 1,
     "r": 17,
-    "color": "grass",
+    "color": "water",
     "border": null,
     "data": {
       "ground_strength": 1,
-      "water": false,
+      "water": true,
       "dwelling": null,
-      "fertility": "grass",
+      "fertility": null,
       "carving": null
     }
   },
   "[0, 18]": {
     "q": 0,
     "r": 18,
-    "color": "sand",
+    "color": "grass",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "grass",
       "carving": null
     }
   },
   "[0, 19]": {
     "q": 0,
     "r": 19,
-    "color": "sand",
+    "color": "herb",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "herb",
       "carving": null
     }
   },
   "[-1, 20]": {
     "q": -1,
     "r": 20,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -3787,10 +3809,10 @@
   "[-1, 21]": {
     "q": -1,
     "r": 21,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -3813,32 +3835,6 @@
   "[-2, 23]": {
     "q": -2,
     "r": 23,
-    "color": "sand",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-3, 24]": {
-    "q": -3,
-    "r": 24,
-    "color": "sand",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-3, 25]": {
-    "q": -3,
-    "r": 25,
     "color": "sand_high",
     "border": null,
     "data": {
@@ -3849,13 +3845,39 @@
       "carving": null
     }
   },
-  "[-4, 26]": {
-    "q": -4,
-    "r": 26,
+  "[-3, 24]": {
+    "q": -3,
+    "r": 24,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-3, 25]": {
+    "q": -3,
+    "r": 25,
     "color": "sand",
     "border": null,
     "data": {
       "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-4, 26]": {
+    "q": -4,
+    "r": 26,
+    "color": "sand_peak",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -3878,10 +3900,10 @@
   "[-5, 28]": {
     "q": -5,
     "r": 28,
-    "color": "sand_high",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -3894,7 +3916,7 @@
     "color": "herb",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": "herb",
@@ -3904,32 +3926,19 @@
   "[10, 0]": {
     "q": 10,
     "r": 0,
-    "color": "herb",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": "herb",
-      "carving": null
-    }
-  },
-  "[10, 1]": {
-    "q": 10,
-    "r": 1,
     "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
     }
   },
-  "[9, 2]": {
-    "q": 9,
-    "r": 2,
+  "[10, 1]": {
+    "q": 10,
+    "r": 1,
     "color": "grass",
     "border": null,
     "data": {
@@ -3940,16 +3949,29 @@
       "carving": null
     }
   },
+  "[9, 2]": {
+    "q": 9,
+    "r": 2,
+    "color": "herb",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": "herb",
+      "carving": null
+    }
+  },
   "[9, 3]": {
     "q": 9,
     "r": 3,
-    "color": "herb",
+    "color": "sand_high",
     "border": null,
     "data": {
       "ground_strength": 2,
       "water": false,
       "dwelling": null,
-      "fertility": "herb",
+      "fertility": null,
       "carving": null
     }
   },
@@ -3969,65 +3991,63 @@
   "[8, 5]": {
     "q": 8,
     "r": 5,
-    "color": "grass",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
-      "fertility": "grass",
+      "fertility": null,
       "carving": null
     }
   },
   "[7, 6]": {
     "q": 7,
     "r": 6,
-    "color": "herb",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
-      "fertility": "herb",
+      "fertility": null,
       "carving": null
     }
   },
   "[7, 7]": {
     "q": 7,
     "r": 7,
-    "color": "luxurious",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
-      "dwelling": {
-        "type": "huts"
-      },
-      "fertility": "luxurious",
+      "dwelling": null,
+      "fertility": null,
       "carving": null
     }
   },
   "[6, 8]": {
     "q": 6,
     "r": 8,
-    "color": "grass",
+    "color": "sand_high",
     "border": null,
     "data": {
       "ground_strength": 2,
       "water": false,
       "dwelling": null,
-      "fertility": "grass",
+      "fertility": null,
       "carving": null
     }
   },
   "[6, 9]": {
     "q": 6,
     "r": 9,
-    "color": "water",
+    "color": "sand_high",
     "border": null,
     "data": {
       "ground_strength": 2,
-      "water": true,
+      "water": false,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -4036,11 +4056,11 @@
   "[5, 10]": {
     "q": 5,
     "r": 10,
-    "color": "water",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
-      "water": true,
+      "ground_strength": 2,
+      "water": false,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -4049,26 +4069,26 @@
   "[5, 11]": {
     "q": 5,
     "r": 11,
-    "color": "water",
+    "color": "herb",
     "border": null,
     "data": {
-      "ground_strength": 1,
-      "water": true,
+      "ground_strength": 3,
+      "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "herb",
       "carving": null
     }
   },
   "[4, 12]": {
     "q": 4,
     "r": 12,
-    "color": "water",
+    "color": "herb",
     "border": null,
     "data": {
-      "ground_strength": 2,
-      "water": true,
+      "ground_strength": 1,
+      "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "herb",
       "carving": null
     }
   },
@@ -4078,7 +4098,7 @@
     "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": true,
       "dwelling": null,
       "fertility": null,
@@ -4088,21 +4108,6 @@
   "[3, 14]": {
     "q": 3,
     "r": 14,
-    "color": "luxurious",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": {
-        "type": "huts"
-      },
-      "fertility": "luxurious",
-      "carving": null
-    }
-  },
-  "[3, 15]": {
-    "q": 3,
-    "r": 15,
     "color": "water",
     "border": null,
     "data": {
@@ -4110,6 +4115,21 @@
       "water": true,
       "dwelling": null,
       "fertility": null,
+      "carving": null
+    }
+  },
+  "[3, 15]": {
+    "q": 3,
+    "r": 15,
+    "color": "luxurious",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": {
+        "type": null
+      },
+      "fertility": "luxurious",
       "carving": null
     }
   },
@@ -4142,32 +4162,60 @@
   "[1, 18]": {
     "q": 1,
     "r": 18,
-    "color": "grass",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 2,
-      "water": false,
+      "ground_strength": 1,
+      "water": true,
       "dwelling": null,
-      "fertility": "grass",
+      "fertility": null,
       "carving": null
     }
   },
   "[1, 19]": {
     "q": 1,
     "r": 19,
-    "color": "grass",
+    "color": "luxurious",
     "border": null,
     "data": {
       "ground_strength": 2,
       "water": false,
-      "dwelling": null,
-      "fertility": "grass",
+      "dwelling": {
+        "type": null
+      },
+      "fertility": "luxurious",
       "carving": null
     }
   },
   "[0, 20]": {
     "q": 0,
     "r": 20,
+    "color": "sand_peak",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[0, 21]": {
+    "q": 0,
+    "r": 21,
+    "color": "herb",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": "herb",
+      "carving": null
+    }
+  },
+  "[-1, 22]": {
+    "q": -1,
+    "r": 22,
     "color": "sand_high",
     "border": null,
     "data": {
@@ -4178,39 +4226,13 @@
       "carving": null
     }
   },
-  "[0, 21]": {
-    "q": 0,
-    "r": 21,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-1, 22]": {
-    "q": -1,
-    "r": 22,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
   "[-1, 23]": {
     "q": -1,
     "r": 23,
-    "color": "sand",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -4220,10 +4242,10 @@
   "[-2, 24]": {
     "q": -2,
     "r": 24,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -4259,26 +4281,26 @@
   "[-3, 27]": {
     "q": -3,
     "r": 27,
-    "color": "herb",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
-      "fertility": "herb",
+      "fertility": null,
       "carving": null
     }
   },
   "[-4, 28]": {
     "q": -4,
     "r": 28,
-    "color": "grass",
+    "color": "herb",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
-      "fertility": "grass",
+      "fertility": "herb",
       "carving": null
     }
   },
@@ -4288,7 +4310,7 @@
     "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": true,
       "dwelling": null,
       "fertility": null,
@@ -4301,7 +4323,7 @@
     "color": "herb",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": "herb",
@@ -4311,26 +4333,24 @@
   "[11, 1]": {
     "q": 11,
     "r": 1,
-    "color": "luxurious",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
-      "dwelling": {
-        "type": "huts"
-      },
-      "fertility": "luxurious",
+      "dwelling": null,
+      "fertility": null,
       "carving": null
     }
   },
   "[10, 2]": {
     "q": 10,
     "r": 2,
-    "color": "water",
+    "color": "sand",
     "border": null,
     "data": {
       "ground_strength": 1,
-      "water": true,
+      "water": false,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -4339,39 +4359,37 @@
   "[10, 3]": {
     "q": 10,
     "r": 3,
-    "color": "luxurious",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
-      "dwelling": {
-        "type": "huts"
-      },
-      "fertility": "luxurious",
+      "dwelling": null,
+      "fertility": null,
       "carving": null
     }
   },
   "[9, 4]": {
     "q": 9,
     "r": 4,
-    "color": "grass",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
-      "fertility": "grass",
+      "fertility": null,
       "carving": null
     }
   },
   "[9, 5]": {
     "q": 9,
     "r": 5,
-    "color": "water",
+    "color": "sand",
     "border": null,
     "data": {
       "ground_strength": 1,
-      "water": true,
+      "water": false,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -4380,11 +4398,11 @@
   "[8, 6]": {
     "q": 8,
     "r": 6,
-    "color": "water",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
-      "water": true,
+      "ground_strength": 2,
+      "water": false,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -4393,11 +4411,11 @@
   "[8, 7]": {
     "q": 8,
     "r": 7,
-    "color": "water",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
-      "water": true,
+      "ground_strength": 1,
+      "water": false,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -4406,11 +4424,11 @@
   "[7, 8]": {
     "q": 7,
     "r": 8,
-    "color": "water",
+    "color": "sand",
     "border": null,
     "data": {
       "ground_strength": 1,
-      "water": true,
+      "water": false,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -4419,41 +4437,39 @@
   "[7, 9]": {
     "q": 7,
     "r": 9,
-    "color": "grass",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
-      "fertility": "grass",
+      "fertility": null,
       "carving": null
     }
   },
   "[6, 10]": {
     "q": 6,
     "r": 10,
-    "color": "luxurious",
+    "color": "herb",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
-      "dwelling": {
-        "type": null
-      },
-      "fertility": "luxurious",
+      "dwelling": null,
+      "fertility": "herb",
       "carving": null
     }
   },
   "[6, 11]": {
     "q": 6,
     "r": 11,
-    "color": "herb",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 3,
-      "water": false,
+      "ground_strength": 1,
+      "water": true,
       "dwelling": null,
-      "fertility": "herb",
+      "fertility": null,
       "carving": null
     }
   },
@@ -4463,10 +4479,10 @@
     "color": "luxurious",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": {
-        "type": "huts"
+        "type": null
       },
       "fertility": "luxurious",
       "carving": null
@@ -4475,19 +4491,6 @@
   "[5, 13]": {
     "q": 5,
     "r": 13,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
-      "carving": null
-    }
-  },
-  "[4, 14]": {
-    "q": 4,
-    "r": 14,
     "color": "water",
     "border": null,
     "data": {
@@ -4498,46 +4501,59 @@
       "carving": null
     }
   },
-  "[4, 15]": {
+  "[4, 14]": {
     "q": 4,
-    "r": 15,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
-      "carving": null
-    }
-  },
-  "[3, 16]": {
-    "q": 3,
-    "r": 16,
-    "color": "luxurious",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": {
-        "type": "huts"
-      },
-      "fertility": "luxurious",
-      "carving": null
-    }
-  },
-  "[3, 17]": {
-    "q": 3,
-    "r": 17,
+    "r": 14,
     "color": "luxurious",
     "border": null,
     "data": {
       "ground_strength": 3,
       "water": false,
       "dwelling": {
+        "type": "temple"
+      },
+      "fertility": "luxurious",
+      "carving": null
+    }
+  },
+  "[4, 15]": {
+    "q": 4,
+    "r": 15,
+    "color": "luxurious",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": {
         "type": "huts"
       },
       "fertility": "luxurious",
+      "carving": null
+    }
+  },
+  "[3, 16]": {
+    "q": 3,
+    "r": 16,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[3, 17]": {
+    "q": 3,
+    "r": 17,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
       "carving": null
     }
   },
@@ -4570,24 +4586,26 @@
   "[1, 20]": {
     "q": 1,
     "r": 20,
-    "color": "herb",
+    "color": "luxurious",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
-      "dwelling": null,
-      "fertility": "herb",
+      "dwelling": {
+        "type": "huts"
+      },
+      "fertility": "luxurious",
       "carving": null
     }
   },
   "[1, 21]": {
     "q": 1,
     "r": 21,
-    "color": "sand_peak",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 3,
-      "water": false,
+      "ground_strength": 2,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -4596,26 +4614,26 @@
   "[0, 22]": {
     "q": 0,
     "r": 22,
-    "color": "sand_high",
+    "color": "grass",
     "border": null,
     "data": {
       "ground_strength": 2,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "grass",
       "carving": null
     }
   },
   "[0, 23]": {
     "q": 0,
     "r": 23,
-    "color": "sand",
+    "color": "grass",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "grass",
       "carving": null
     }
   },
@@ -4635,23 +4653,23 @@
   "[-1, 25]": {
     "q": -1,
     "r": 25,
-    "color": "sand",
+    "color": "herb",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "herb",
       "carving": null
     }
   },
   "[-2, 26]": {
     "q": -2,
     "r": 26,
-    "color": "sand",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -4661,65 +4679,65 @@
   "[-2, 27]": {
     "q": -2,
     "r": 27,
-    "color": "grass",
+    "color": "sand_peak",
     "border": null,
     "data": {
       "ground_strength": 3,
       "water": false,
-      "dwelling": null,
-      "fertility": "grass",
+      "dwelling": {
+        "type": "temple"
+      },
+      "fertility": null,
       "carving": null
     }
   },
   "[-3, 28]": {
     "q": -3,
     "r": 28,
-    "color": "water",
+    "color": "grass",
     "border": null,
     "data": {
       "ground_strength": 1,
-      "water": true,
+      "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "grass",
       "carving": null
     }
   },
   "[-3, 29]": {
     "q": -3,
     "r": 29,
-    "color": "luxurious",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": {
-        "type": null
-      },
-      "fertility": "luxurious",
+      "ground_strength": 2,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
       "carving": null
     }
   },
   "[12, 0]": {
     "q": 12,
     "r": 0,
-    "color": "herb",
+    "color": "sand",
     "border": null,
     "data": {
       "ground_strength": 1,
       "water": false,
       "dwelling": null,
-      "fertility": "herb",
+      "fertility": null,
       "carving": null
     }
   },
   "[12, 1]": {
     "q": 12,
     "r": 1,
-    "color": "water",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
-      "water": true,
+      "ground_strength": 2,
+      "water": false,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -4728,6 +4746,123 @@
   "[11, 2]": {
     "q": 11,
     "r": 2,
+    "color": "sand_peak",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[11, 3]": {
+    "q": 11,
+    "r": 3,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[10, 4]": {
+    "q": 10,
+    "r": 4,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[10, 5]": {
+    "q": 10,
+    "r": 5,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[9, 6]": {
+    "q": 9,
+    "r": 6,
+    "color": "sand_peak",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[9, 7]": {
+    "q": 9,
+    "r": 7,
+    "color": "sand_peak",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[8, 8]": {
+    "q": 8,
+    "r": 8,
+    "color": "sand_peak",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[8, 9]": {
+    "q": 8,
+    "r": 9,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[7, 10]": {
+    "q": 7,
+    "r": 10,
+    "color": "grass",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": "grass",
+      "carving": null
+    }
+  },
+  "[7, 11]": {
+    "q": 7,
+    "r": 11,
     "color": "water",
     "border": null,
     "data": {
@@ -4738,9 +4873,22 @@
       "carving": null
     }
   },
-  "[11, 3]": {
-    "q": 11,
-    "r": 3,
+  "[6, 12]": {
+    "q": 6,
+    "r": 12,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[6, 13]": {
+    "q": 6,
+    "r": 13,
     "color": "luxurious",
     "border": null,
     "data": {
@@ -4753,159 +4901,29 @@
       "carving": null
     }
   },
-  "[10, 4]": {
-    "q": 10,
-    "r": 4,
-    "color": "water",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": true,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[10, 5]": {
-    "q": 10,
-    "r": 5,
-    "color": "luxurious",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": {
-        "type": null
-      },
-      "fertility": "luxurious",
-      "carving": null
-    }
-  },
-  "[9, 6]": {
-    "q": 9,
-    "r": 6,
-    "color": "water",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": true,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[9, 7]": {
-    "q": 9,
-    "r": 7,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
-      "carving": null
-    }
-  },
-  "[8, 8]": {
-    "q": 8,
-    "r": 8,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
-      "carving": null
-    }
-  },
-  "[8, 9]": {
-    "q": 8,
-    "r": 9,
-    "color": "sand",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[7, 10]": {
-    "q": 7,
-    "r": 10,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[7, 11]": {
-    "q": 7,
-    "r": 11,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[6, 12]": {
-    "q": 6,
-    "r": 12,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[6, 13]": {
-    "q": 6,
-    "r": 13,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
   "[5, 14]": {
     "q": 5,
     "r": 14,
-    "color": "herb",
+    "color": "luxurious",
     "border": null,
     "data": {
       "ground_strength": 2,
       "water": false,
-      "dwelling": null,
-      "fertility": "herb",
+      "dwelling": {
+        "type": "huts"
+      },
+      "fertility": "luxurious",
       "carving": null
     }
   },
   "[5, 15]": {
     "q": 5,
     "r": 15,
-    "color": "sand_peak",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 3,
-      "water": false,
+      "ground_strength": 1,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -4914,15 +4932,13 @@
   "[4, 16]": {
     "q": 4,
     "r": 16,
-    "color": "herb",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": {
-        "type": "temple"
-      },
-      "fertility": "herb",
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
       "carving": null
     }
   },
@@ -4932,7 +4948,7 @@
     "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": true,
       "dwelling": null,
       "fertility": null,
@@ -4945,7 +4961,7 @@
     "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": true,
       "dwelling": null,
       "fertility": null,
@@ -4955,37 +4971,37 @@
   "[3, 19]": {
     "q": 3,
     "r": 19,
-    "color": "grass",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 3,
-      "water": false,
+      "ground_strength": 2,
+      "water": true,
       "dwelling": null,
-      "fertility": "grass",
+      "fertility": null,
       "carving": null
     }
   },
   "[2, 20]": {
     "q": 2,
     "r": 20,
-    "color": "herb",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 3,
-      "water": false,
+      "ground_strength": 1,
+      "water": true,
       "dwelling": null,
-      "fertility": "herb",
+      "fertility": null,
       "carving": null
     }
   },
   "[2, 21]": {
     "q": 2,
     "r": 21,
-    "color": "sand_high",
+    "color": "water",
     "border": null,
     "data": {
       "ground_strength": 2,
-      "water": false,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -4994,11 +5010,11 @@
   "[1, 22]": {
     "q": 1,
     "r": 22,
-    "color": "sand",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 1,
-      "water": false,
+      "ground_strength": 2,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -5007,11 +5023,11 @@
   "[1, 23]": {
     "q": 1,
     "r": 23,
-    "color": "sand_peak",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 3,
-      "water": false,
+      "ground_strength": 1,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -5020,110 +5036,6 @@
   "[0, 24]": {
     "q": 0,
     "r": 24,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[0, 25]": {
-    "q": 0,
-    "r": 25,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-1, 26]": {
-    "q": -1,
-    "r": 26,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-1, 27]": {
-    "q": -1,
-    "r": 27,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
-      "carving": null
-    }
-  },
-  "[-2, 28]": {
-    "q": -2,
-    "r": 28,
-    "color": "water",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": true,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[-2, 29]": {
-    "q": -2,
-    "r": 29,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
-      "carving": null
-    }
-  },
-  "[13, 0]": {
-    "q": 13,
-    "r": 0,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
-      "carving": null
-    }
-  },
-  "[13, 1]": {
-    "q": 13,
-    "r": 1,
-    "color": "water",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": true,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[12, 2]": {
-    "q": 12,
-    "r": 2,
     "color": "luxurious",
     "border": null,
     "data": {
@@ -5136,29 +5048,135 @@
       "carving": null
     }
   },
-  "[12, 3]": {
-    "q": 12,
-    "r": 3,
+  "[0, 25]": {
+    "q": 0,
+    "r": 25,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[-1, 26]": {
+    "q": -1,
+    "r": 26,
+    "color": "grass",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": "grass",
+      "carving": null
+    }
+  },
+  "[-1, 27]": {
+    "q": -1,
+    "r": 27,
     "color": "luxurious",
     "border": null,
     "data": {
       "ground_strength": 2,
       "water": false,
       "dwelling": {
-        "type": "temple"
+        "type": "huts"
       },
       "fertility": "luxurious",
+      "carving": null
+    }
+  },
+  "[-2, 28]": {
+    "q": -2,
+    "r": 28,
+    "color": "luxurious",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": {
+        "type": "huts"
+      },
+      "fertility": "luxurious",
+      "carving": null
+    }
+  },
+  "[-2, 29]": {
+    "q": -2,
+    "r": 29,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[13, 0]": {
+    "q": 13,
+    "r": 0,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[13, 1]": {
+    "q": 13,
+    "r": 1,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[12, 2]": {
+    "q": 12,
+    "r": 2,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[12, 3]": {
+    "q": 12,
+    "r": 3,
+    "color": "sand_peak",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
       "carving": null
     }
   },
   "[11, 4]": {
     "q": 11,
     "r": 4,
-    "color": "water",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
-      "water": true,
+      "ground_strength": 2,
+      "water": false,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -5167,11 +5185,11 @@
   "[11, 5]": {
     "q": 11,
     "r": 5,
-    "color": "water",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
-      "water": true,
+      "ground_strength": 2,
+      "water": false,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -5180,23 +5198,23 @@
   "[10, 6]": {
     "q": 10,
     "r": 6,
-    "color": "grass",
+    "color": "sand_high",
     "border": null,
     "data": {
       "ground_strength": 2,
       "water": false,
       "dwelling": null,
-      "fertility": "grass",
+      "fertility": null,
       "carving": null
     }
   },
   "[10, 7]": {
     "q": 10,
     "r": 7,
-    "color": "sand",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -5206,10 +5224,10 @@
   "[9, 8]": {
     "q": 9,
     "r": 8,
-    "color": "sand",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -5219,10 +5237,10 @@
   "[9, 9]": {
     "q": 9,
     "r": 9,
-    "color": "sand_high",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -5232,84 +5250,6 @@
   "[8, 10]": {
     "q": 8,
     "r": 10,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[8, 11]": {
-    "q": 8,
-    "r": 11,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[7, 12]": {
-    "q": 7,
-    "r": 12,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[7, 13]": {
-    "q": 7,
-    "r": 13,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[6, 14]": {
-    "q": 6,
-    "r": 14,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[6, 15]": {
-    "q": 6,
-    "r": 15,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[5, 16]": {
-    "q": 5,
-    "r": 16,
     "color": "grass",
     "border": null,
     "data": {
@@ -5320,9 +5260,9 @@
       "carving": null
     }
   },
-  "[5, 17]": {
-    "q": 5,
-    "r": 17,
+  "[8, 11]": {
+    "q": 8,
+    "r": 11,
     "color": "water",
     "border": null,
     "data": {
@@ -5333,29 +5273,105 @@
       "carving": null
     }
   },
-  "[4, 18]": {
-    "q": 4,
-    "r": 18,
-    "color": "luxurious",
+  "[7, 12]": {
+    "q": 7,
+    "r": 12,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[7, 13]": {
+    "q": 7,
+    "r": 13,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[6, 14]": {
+    "q": 6,
+    "r": 14,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[6, 15]": {
+    "q": 6,
+    "r": 15,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[5, 16]": {
+    "q": 5,
+    "r": 16,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[5, 17]": {
+    "q": 5,
+    "r": 17,
+    "color": "water",
     "border": null,
     "data": {
       "ground_strength": 3,
-      "water": false,
-      "dwelling": {
-        "type": null
-      },
-      "fertility": "luxurious",
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[4, 18]": {
+    "q": 4,
+    "r": 18,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
       "carving": null
     }
   },
   "[4, 19]": {
     "q": 4,
     "r": 19,
-    "color": "sand",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 1,
-      "water": false,
+      "ground_strength": 2,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -5364,11 +5380,11 @@
   "[3, 20]": {
     "q": 3,
     "r": 20,
-    "color": "sand",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 1,
-      "water": false,
+      "ground_strength": 3,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -5377,11 +5393,11 @@
   "[3, 21]": {
     "q": 3,
     "r": 21,
-    "color": "sand_high",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 2,
-      "water": false,
+      "ground_strength": 3,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -5390,11 +5406,11 @@
   "[2, 22]": {
     "q": 2,
     "r": 22,
-    "color": "sand_peak",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 3,
-      "water": false,
+      "ground_strength": 1,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -5403,24 +5419,26 @@
   "[2, 23]": {
     "q": 2,
     "r": 23,
-    "color": "sand_high",
+    "color": "luxurious",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
-      "dwelling": null,
-      "fertility": null,
+      "dwelling": {
+        "type": "huts"
+      },
+      "fertility": "luxurious",
       "carving": null
     }
   },
   "[1, 24]": {
     "q": 1,
     "r": 24,
-    "color": "sand_high",
+    "color": "water",
     "border": null,
     "data": {
       "ground_strength": 2,
-      "water": false,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -5429,24 +5447,26 @@
   "[1, 25]": {
     "q": 1,
     "r": 25,
-    "color": "sand_high",
+    "color": "luxurious",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
-      "dwelling": null,
-      "fertility": null,
+      "dwelling": {
+        "type": "huts"
+      },
+      "fertility": "luxurious",
       "carving": null
     }
   },
   "[0, 26]": {
     "q": 0,
     "r": 26,
-    "color": "sand",
+    "color": "water",
     "border": null,
     "data": {
       "ground_strength": 1,
-      "water": false,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -5455,13 +5475,13 @@
   "[0, 27]": {
     "q": 0,
     "r": 27,
-    "color": "grass",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 2,
-      "water": false,
+      "ground_strength": 1,
+      "water": true,
       "dwelling": null,
-      "fertility": "grass",
+      "fertility": null,
       "carving": null
     }
   },
@@ -5481,19 +5501,149 @@
   "[-1, 29]": {
     "q": -1,
     "r": 29,
-    "color": "grass",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 2,
-      "water": false,
+      "ground_strength": 1,
+      "water": true,
       "dwelling": null,
-      "fertility": "grass",
+      "fertility": null,
       "carving": null
     }
   },
   "[14, 0]": {
     "q": 14,
     "r": 0,
+    "color": "sand_peak",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[14, 1]": {
+    "q": 14,
+    "r": 1,
+    "color": "sand_peak",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[13, 2]": {
+    "q": 13,
+    "r": 2,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[13, 3]": {
+    "q": 13,
+    "r": 3,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[12, 4]": {
+    "q": 12,
+    "r": 4,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[12, 5]": {
+    "q": 12,
+    "r": 5,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[11, 6]": {
+    "q": 11,
+    "r": 6,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[11, 7]": {
+    "q": 11,
+    "r": 7,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[10, 8]": {
+    "q": 10,
+    "r": 8,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[10, 9]": {
+    "q": 10,
+    "r": 9,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[9, 10]": {
+    "q": 9,
+    "r": 10,
     "color": "herb",
     "border": null,
     "data": {
@@ -5504,9 +5654,158 @@
       "carving": null
     }
   },
-  "[14, 1]": {
-    "q": 14,
-    "r": 1,
+  "[9, 11]": {
+    "q": 9,
+    "r": 11,
+    "color": "herb",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": "herb",
+      "carving": null
+    }
+  },
+  "[8, 12]": {
+    "q": 8,
+    "r": 12,
+    "color": "luxurious",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": {
+        "type": null
+      },
+      "fertility": "luxurious",
+      "carving": null
+    }
+  },
+  "[8, 13]": {
+    "q": 8,
+    "r": 13,
+    "color": "herb",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": "herb",
+      "carving": null
+    }
+  },
+  "[7, 14]": {
+    "q": 7,
+    "r": 14,
+    "color": "luxurious",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": {
+        "type": null
+      },
+      "fertility": "luxurious",
+      "carving": null
+    }
+  },
+  "[7, 15]": {
+    "q": 7,
+    "r": 15,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[6, 16]": {
+    "q": 6,
+    "r": 16,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[6, 17]": {
+    "q": 6,
+    "r": 17,
+    "color": "luxurious",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": {
+        "type": "huts"
+      },
+      "fertility": "luxurious",
+      "carving": null
+    }
+  },
+  "[5, 18]": {
+    "q": 5,
+    "r": 18,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[5, 19]": {
+    "q": 5,
+    "r": 19,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[4, 20]": {
+    "q": 4,
+    "r": 20,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[4, 21]": {
+    "q": 4,
+    "r": 21,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[3, 22]": {
+    "q": 3,
+    "r": 22,
     "color": "luxurious",
     "border": null,
     "data": {
@@ -5519,289 +5818,14 @@
       "carving": null
     }
   },
-  "[13, 2]": {
-    "q": 13,
-    "r": 2,
-    "color": "water",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": true,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[13, 3]": {
-    "q": 13,
-    "r": 3,
-    "color": "water",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": true,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[12, 4]": {
-    "q": 12,
-    "r": 4,
-    "color": "luxurious",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": {
-        "type": "huts"
-      },
-      "fertility": "luxurious",
-      "carving": null
-    }
-  },
-  "[12, 5]": {
-    "q": 12,
-    "r": 5,
-    "color": "water",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": true,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[11, 6]": {
-    "q": 11,
-    "r": 6,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
-      "carving": null
-    }
-  },
-  "[11, 7]": {
-    "q": 11,
-    "r": 7,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[10, 8]": {
-    "q": 10,
-    "r": 8,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[10, 9]": {
-    "q": 10,
-    "r": 9,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[9, 10]": {
-    "q": 9,
-    "r": 10,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[9, 11]": {
-    "q": 9,
-    "r": 11,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[8, 12]": {
-    "q": 8,
-    "r": 12,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[8, 13]": {
-    "q": 8,
-    "r": 13,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[7, 14]": {
-    "q": 7,
-    "r": 14,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[7, 15]": {
-    "q": 7,
-    "r": 15,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[6, 16]": {
-    "q": 6,
-    "r": 16,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
-      "carving": null
-    }
-  },
-  "[6, 17]": {
-    "q": 6,
-    "r": 17,
-    "color": "water",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": true,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[5, 18]": {
-    "q": 5,
-    "r": 18,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
-      "carving": null
-    }
-  },
-  "[5, 19]": {
-    "q": 5,
-    "r": 19,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[4, 20]": {
-    "q": 4,
-    "r": 20,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[4, 21]": {
-    "q": 4,
-    "r": 21,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[3, 22]": {
-    "q": 3,
-    "r": 22,
-    "color": "sand",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
   "[3, 23]": {
     "q": 3,
     "r": 23,
-    "color": "sand_high",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 2,
-      "water": false,
+      "ground_strength": 1,
+      "water": true,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -5810,23 +5834,25 @@
   "[2, 24]": {
     "q": 2,
     "r": 24,
-    "color": "sand",
+    "color": "grass",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
-      "dwelling": null,
-      "fertility": null,
+      "dwelling": {
+        "type": "temple"
+      },
+      "fertility": "grass",
       "carving": null
     }
   },
   "[2, 25]": {
     "q": 2,
     "r": 25,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -5836,13 +5862,13 @@
   "[1, 26]": {
     "q": 1,
     "r": 26,
-    "color": "sand_high",
+    "color": "grass",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "grass",
       "carving": null
     }
   },
@@ -5852,7 +5878,7 @@
     "color": "grass",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": "grass",
@@ -5862,36 +5888,38 @@
   "[0, 28]": {
     "q": 0,
     "r": 28,
-    "color": "water",
+    "color": "luxurious",
     "border": null,
     "data": {
-      "ground_strength": 1,
-      "water": true,
-      "dwelling": null,
-      "fertility": null,
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": {
+        "type": null
+      },
+      "fertility": "luxurious",
       "carving": null
     }
   },
   "[0, 29]": {
     "q": 0,
     "r": 29,
-    "color": "grass",
+    "color": "herb",
     "border": null,
     "data": {
       "ground_strength": 2,
       "water": false,
       "dwelling": null,
-      "fertility": "grass",
+      "fertility": "herb",
       "carving": null
     }
   },
   "[15, 0]": {
     "q": 15,
     "r": 0,
-    "color": "sand",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -5901,24 +5929,24 @@
   "[15, 1]": {
     "q": 15,
     "r": 1,
-    "color": "herb",
+    "color": "sand_peak",
     "border": null,
     "data": {
       "ground_strength": 3,
       "water": false,
       "dwelling": null,
-      "fertility": "herb",
+      "fertility": null,
       "carving": null
     }
   },
   "[14, 2]": {
     "q": 14,
     "r": 2,
-    "color": "water",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 1,
-      "water": true,
+      "ground_strength": 3,
+      "water": false,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -5927,26 +5955,24 @@
   "[14, 3]": {
     "q": 14,
     "r": 3,
-    "color": "luxurious",
+    "color": "sand_peak",
     "border": null,
     "data": {
       "ground_strength": 3,
       "water": false,
-      "dwelling": {
-        "type": "huts"
-      },
-      "fertility": "luxurious",
+      "dwelling": null,
+      "fertility": null,
       "carving": null
     }
   },
   "[13, 4]": {
     "q": 13,
     "r": 4,
-    "color": "water",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
-      "water": true,
+      "ground_strength": 3,
+      "water": false,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -5955,45 +5981,6 @@
   "[13, 5]": {
     "q": 13,
     "r": 5,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
-      "carving": null
-    }
-  },
-  "[12, 6]": {
-    "q": 12,
-    "r": 6,
-    "color": "herb",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": "herb",
-      "carving": null
-    }
-  },
-  "[12, 7]": {
-    "q": 12,
-    "r": 7,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[11, 8]": {
-    "q": 11,
-    "r": 8,
     "color": "sand",
     "border": null,
     "data": {
@@ -6004,13 +5991,52 @@
       "carving": null
     }
   },
-  "[11, 9]": {
-    "q": 11,
-    "r": 9,
+  "[12, 6]": {
+    "q": 12,
+    "r": 6,
     "color": "sand_high",
     "border": null,
     "data": {
       "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[12, 7]": {
+    "q": 12,
+    "r": 7,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[11, 8]": {
+    "q": 11,
+    "r": 8,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[11, 9]": {
+    "q": 11,
+    "r": 9,
+    "color": "sand_peak",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -6020,10 +6046,10 @@
   "[10, 10]": {
     "q": 10,
     "r": 10,
-    "color": "sand_high",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -6033,10 +6059,10 @@
   "[10, 11]": {
     "q": 10,
     "r": 11,
-    "color": "sand_peak",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -6072,39 +6098,41 @@
   "[8, 14]": {
     "q": 8,
     "r": 14,
-    "color": "sand_peak",
+    "color": "herb",
     "border": null,
     "data": {
       "ground_strength": 3,
       "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "herb",
       "carving": null
     }
   },
   "[8, 15]": {
     "q": 8,
     "r": 15,
-    "color": "sand",
+    "color": "luxurious",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
-      "dwelling": null,
-      "fertility": null,
+      "dwelling": {
+        "type": "huts"
+      },
+      "fertility": "luxurious",
       "carving": null
     }
   },
   "[7, 16]": {
     "q": 7,
     "r": 16,
-    "color": "grass",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 1,
-      "water": false,
+      "ground_strength": 2,
+      "water": true,
       "dwelling": null,
-      "fertility": "grass",
+      "fertility": null,
       "carving": null
     }
   },
@@ -6114,7 +6142,7 @@
     "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": true,
       "dwelling": null,
       "fertility": null,
@@ -6124,138 +6152,6 @@
   "[6, 18]": {
     "q": 6,
     "r": 18,
-    "color": "luxurious",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": {
-        "type": null
-      },
-      "fertility": "luxurious",
-      "carving": null
-    }
-  },
-  "[6, 19]": {
-    "q": 6,
-    "r": 19,
-    "color": "herb",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": "herb",
-      "carving": null
-    }
-  },
-  "[5, 20]": {
-    "q": 5,
-    "r": 20,
-    "color": "sand",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[5, 21]": {
-    "q": 5,
-    "r": 21,
-    "color": "sand",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[4, 22]": {
-    "q": 4,
-    "r": 22,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[4, 23]": {
-    "q": 4,
-    "r": 23,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[3, 24]": {
-    "q": 3,
-    "r": 24,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[3, 25]": {
-    "q": 3,
-    "r": 25,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[2, 26]": {
-    "q": 2,
-    "r": 26,
-    "color": "sand",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[2, 27]": {
-    "q": 2,
-    "r": 27,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
-      "carving": null
-    }
-  },
-  "[1, 28]": {
-    "q": 1,
-    "r": 28,
     "color": "water",
     "border": null,
     "data": {
@@ -6266,48 +6162,126 @@
       "carving": null
     }
   },
-  "[1, 29]": {
-    "q": 1,
-    "r": 29,
-    "color": "grass",
+  "[6, 19]": {
+    "q": 6,
+    "r": 19,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[5, 20]": {
+    "q": 5,
+    "r": 20,
+    "color": "water",
     "border": null,
     "data": {
       "ground_strength": 2,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[5, 21]": {
+    "q": 5,
+    "r": 21,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[4, 22]": {
+    "q": 4,
+    "r": 22,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[4, 23]": {
+    "q": 4,
+    "r": 23,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[3, 24]": {
+    "q": 3,
+    "r": 24,
+    "color": "grass",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": "grass",
       "carving": null
     }
   },
-  "[16, 0]": {
-    "q": 16,
-    "r": 0,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[16, 1]": {
-    "q": 16,
-    "r": 1,
-    "color": "sand",
+  "[3, 25]": {
+    "q": 3,
+    "r": 25,
+    "color": "grass",
     "border": null,
     "data": {
       "ground_strength": 1,
       "water": false,
       "dwelling": null,
+      "fertility": "grass",
+      "carving": null
+    }
+  },
+  "[2, 26]": {
+    "q": 2,
+    "r": 26,
+    "color": "grass",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": "grass",
+      "carving": null
+    }
+  },
+  "[2, 27]": {
+    "q": 2,
+    "r": 27,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
       "fertility": null,
       "carving": null
     }
   },
-  "[15, 2]": {
-    "q": 15,
-    "r": 2,
+  "[1, 28]": {
+    "q": 1,
+    "r": 28,
     "color": "herb",
     "border": null,
     "data": {
@@ -6318,48 +6292,9 @@
       "carving": null
     }
   },
-  "[15, 3]": {
-    "q": 15,
-    "r": 3,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[14, 4]": {
-    "q": 14,
-    "r": 4,
-    "color": "herb",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": "herb",
-      "carving": null
-    }
-  },
-  "[14, 5]": {
-    "q": 14,
-    "r": 5,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[13, 6]": {
-    "q": 13,
-    "r": 6,
+  "[1, 29]": {
+    "q": 1,
+    "r": 29,
     "color": "sand_peak",
     "border": null,
     "data": {
@@ -6370,13 +6305,104 @@
       "carving": null
     }
   },
-  "[13, 7]": {
-    "q": 13,
-    "r": 7,
+  "[16, 0]": {
+    "q": 16,
+    "r": 0,
+    "color": "sand_peak",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[16, 1]": {
+    "q": 16,
+    "r": 1,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[15, 2]": {
+    "q": 15,
+    "r": 2,
     "color": "sand",
     "border": null,
     "data": {
       "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[15, 3]": {
+    "q": 15,
+    "r": 3,
+    "color": "sand_peak",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[14, 4]": {
+    "q": 14,
+    "r": 4,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[14, 5]": {
+    "q": 14,
+    "r": 5,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[13, 6]": {
+    "q": 13,
+    "r": 6,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[13, 7]": {
+    "q": 13,
+    "r": 7,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -6412,10 +6438,10 @@
   "[11, 10]": {
     "q": 11,
     "r": 10,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -6425,10 +6451,10 @@
   "[11, 11]": {
     "q": 11,
     "r": 11,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -6451,10 +6477,10 @@
   "[10, 13]": {
     "q": 10,
     "r": 13,
-    "color": "sand",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -6464,10 +6490,10 @@
   "[9, 14]": {
     "q": 9,
     "r": 14,
-    "color": "sand_high",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -6477,41 +6503,39 @@
   "[9, 15]": {
     "q": 9,
     "r": 15,
-    "color": "sand",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[8, 16]": {
-    "q": 8,
-    "r": 16,
     "color": "herb",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": "herb",
       "carving": null
     }
   },
-  "[8, 17]": {
+  "[8, 16]": {
     "q": 8,
-    "r": 17,
-    "color": "luxurious",
+    "r": 16,
+    "color": "water",
     "border": null,
     "data": {
       "ground_strength": 2,
-      "water": false,
-      "dwelling": {
-        "type": null
-      },
-      "fertility": "luxurious",
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[8, 17]": {
+    "q": 8,
+    "r": 17,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
       "carving": null
     }
   },
@@ -6531,123 +6555,21 @@
   "[7, 19]": {
     "q": 7,
     "r": 19,
-    "color": "grass",
+    "color": "luxurious",
     "border": null,
     "data": {
       "ground_strength": 2,
       "water": false,
-      "dwelling": null,
-      "fertility": "grass",
+      "dwelling": {
+        "type": null
+      },
+      "fertility": "luxurious",
       "carving": null
     }
   },
   "[6, 20]": {
     "q": 6,
     "r": 20,
-    "color": "sand",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[6, 21]": {
-    "q": 6,
-    "r": 21,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
-      "carving": null
-    }
-  },
-  "[5, 22]": {
-    "q": 5,
-    "r": 22,
-    "color": "herb",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": "herb",
-      "carving": null
-    }
-  },
-  "[5, 23]": {
-    "q": 5,
-    "r": 23,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
-      "carving": null
-    }
-  },
-  "[4, 24]": {
-    "q": 4,
-    "r": 24,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[4, 25]": {
-    "q": 4,
-    "r": 25,
-    "color": "sand",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[3, 26]": {
-    "q": 3,
-    "r": 26,
-    "color": "sand_peak",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[3, 27]": {
-    "q": 3,
-    "r": 27,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
-      "carving": null
-    }
-  },
-  "[2, 28]": {
-    "q": 2,
-    "r": 28,
     "color": "water",
     "border": null,
     "data": {
@@ -6658,18 +6580,124 @@
       "carving": null
     }
   },
-  "[2, 29]": {
-    "q": 2,
-    "r": 29,
+  "[6, 21]": {
+    "q": 6,
+    "r": 21,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[5, 22]": {
+    "q": 5,
+    "r": 22,
+    "color": "luxurious",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": {
+        "type": "huts"
+      },
+      "fertility": "luxurious",
+      "carving": null
+    }
+  },
+  "[5, 23]": {
+    "q": 5,
+    "r": 23,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[4, 24]": {
+    "q": 4,
+    "r": 24,
     "color": "luxurious",
     "border": null,
     "data": {
       "ground_strength": 3,
       "water": false,
       "dwelling": {
-        "type": null
+        "type": "huts"
       },
       "fertility": "luxurious",
+      "carving": null
+    }
+  },
+  "[4, 25]": {
+    "q": 4,
+    "r": 25,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[3, 26]": {
+    "q": 3,
+    "r": 26,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[3, 27]": {
+    "q": 3,
+    "r": 27,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[2, 28]": {
+    "q": 2,
+    "r": 28,
+    "color": "grass",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": "grass",
+      "carving": null
+    }
+  },
+  "[2, 29]": {
+    "q": 2,
+    "r": 29,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
       "carving": null
     }
   },
@@ -6689,6 +6717,19 @@
   "[17, 1]": {
     "q": 17,
     "r": 1,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[16, 2]": {
+    "q": 16,
+    "r": 2,
     "color": "sand_peak",
     "border": null,
     "data": {
@@ -6699,26 +6740,13 @@
       "carving": null
     }
   },
-  "[16, 2]": {
-    "q": 16,
-    "r": 2,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
   "[16, 3]": {
     "q": 16,
     "r": 3,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -6728,10 +6756,10 @@
   "[15, 4]": {
     "q": 15,
     "r": 4,
-    "color": "sand_high",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -6741,10 +6769,10 @@
   "[15, 5]": {
     "q": 15,
     "r": 5,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -6767,10 +6795,10 @@
   "[14, 7]": {
     "q": 14,
     "r": 7,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -6793,10 +6821,10 @@
   "[13, 9]": {
     "q": 13,
     "r": 9,
-    "color": "sand",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -6819,10 +6847,10 @@
   "[12, 11]": {
     "q": 12,
     "r": 11,
-    "color": "sand_peak",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -6871,19 +6899,6 @@
   "[10, 15]": {
     "q": 10,
     "r": 15,
-    "color": "sand",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[9, 16]": {
-    "q": 9,
-    "r": 16,
     "color": "sand_peak",
     "border": null,
     "data": {
@@ -6894,13 +6909,26 @@
       "carving": null
     }
   },
+  "[9, 16]": {
+    "q": 9,
+    "r": 16,
+    "color": "grass",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": "grass",
+      "carving": null
+    }
+  },
   "[9, 17]": {
     "q": 9,
     "r": 17,
     "color": "grass",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": "grass",
@@ -6923,6 +6951,19 @@
   "[8, 19]": {
     "q": 8,
     "r": 19,
+    "color": "herb",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": "herb",
+      "carving": null
+    }
+  },
+  "[7, 20]": {
+    "q": 7,
+    "r": 20,
     "color": "luxurious",
     "border": null,
     "data": {
@@ -6932,19 +6973,6 @@
         "type": null
       },
       "fertility": "luxurious",
-      "carving": null
-    }
-  },
-  "[7, 20]": {
-    "q": 7,
-    "r": 20,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
       "carving": null
     }
   },
@@ -6964,6 +6992,21 @@
   "[6, 22]": {
     "q": 6,
     "r": 22,
+    "color": "luxurious",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": {
+        "type": null
+      },
+      "fertility": "luxurious",
+      "carving": null
+    }
+  },
+  "[6, 23]": {
+    "q": 6,
+    "r": 23,
     "color": "water",
     "border": null,
     "data": {
@@ -6974,9 +7017,9 @@
       "carving": null
     }
   },
-  "[6, 23]": {
-    "q": 6,
-    "r": 23,
+  "[5, 24]": {
+    "q": 5,
+    "r": 24,
     "color": "water",
     "border": null,
     "data": {
@@ -6987,48 +7030,9 @@
       "carving": null
     }
   },
-  "[5, 24]": {
-    "q": 5,
-    "r": 24,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
-      "carving": null
-    }
-  },
   "[5, 25]": {
     "q": 5,
     "r": 25,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
-      "carving": null
-    }
-  },
-  "[4, 26]": {
-    "q": 4,
-    "r": 26,
-    "color": "sand",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[4, 27]": {
-    "q": 4,
-    "r": 27,
     "color": "luxurious",
     "border": null,
     "data": {
@@ -7041,22 +7045,9 @@
       "carving": null
     }
   },
-  "[3, 28]": {
-    "q": 3,
-    "r": 28,
-    "color": "water",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": true,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[3, 29]": {
-    "q": 3,
-    "r": 29,
+  "[4, 26]": {
+    "q": 4,
+    "r": 26,
     "color": "water",
     "border": null,
     "data": {
@@ -7067,13 +7058,54 @@
       "carving": null
     }
   },
-  "[18, 0]": {
-    "q": 18,
-    "r": 0,
-    "color": "sand_high",
+  "[4, 27]": {
+    "q": 4,
+    "r": 27,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[3, 28]": {
+    "q": 3,
+    "r": 28,
+    "color": "luxurious",
     "border": null,
     "data": {
       "ground_strength": 2,
+      "water": false,
+      "dwelling": {
+        "type": null
+      },
+      "fertility": "luxurious",
+      "carving": null
+    }
+  },
+  "[3, 29]": {
+    "q": 3,
+    "r": 29,
+    "color": "grass",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": "grass",
+      "carving": null
+    }
+  },
+  "[18, 0]": {
+    "q": 18,
+    "r": 0,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -7083,10 +7115,10 @@
   "[18, 1]": {
     "q": 18,
     "r": 1,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -7096,10 +7128,10 @@
   "[17, 2]": {
     "q": 17,
     "r": 2,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -7135,10 +7167,10 @@
   "[16, 5]": {
     "q": 16,
     "r": 5,
-    "color": "sand_high",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -7148,10 +7180,10 @@
   "[15, 6]": {
     "q": 15,
     "r": 6,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -7161,10 +7193,10 @@
   "[15, 7]": {
     "q": 15,
     "r": 7,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -7174,10 +7206,10 @@
   "[14, 8]": {
     "q": 14,
     "r": 8,
-    "color": "sand",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -7226,10 +7258,10 @@
   "[12, 12]": {
     "q": 12,
     "r": 12,
-    "color": "sand",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -7239,10 +7271,10 @@
   "[12, 13]": {
     "q": 12,
     "r": 13,
-    "color": "sand_high",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -7265,10 +7297,10 @@
   "[11, 15]": {
     "q": 11,
     "r": 15,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -7291,37 +7323,37 @@
   "[10, 17]": {
     "q": 10,
     "r": 17,
-    "color": "herb",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
-      "fertility": "herb",
+      "fertility": null,
       "carving": null
     }
   },
   "[9, 18]": {
     "q": 9,
     "r": 18,
-    "color": "water",
+    "color": "herb",
     "border": null,
     "data": {
-      "ground_strength": 1,
-      "water": true,
+      "ground_strength": 2,
+      "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "herb",
       "carving": null
     }
   },
   "[9, 19]": {
     "q": 9,
     "r": 19,
-    "color": "water",
+    "color": "sand",
     "border": null,
     "data": {
       "ground_strength": 1,
-      "water": true,
+      "water": false,
       "dwelling": null,
       "fertility": null,
       "carving": null
@@ -7330,32 +7362,47 @@
   "[8, 20]": {
     "q": 8,
     "r": 20,
-    "color": "water",
+    "color": "herb",
     "border": null,
     "data": {
       "ground_strength": 2,
-      "water": true,
+      "water": false,
       "dwelling": null,
-      "fertility": null,
+      "fertility": "herb",
       "carving": null
     }
   },
   "[8, 21]": {
     "q": 8,
     "r": 21,
-    "color": "grass",
+    "color": "luxurious",
     "border": null,
     "data": {
       "ground_strength": 3,
       "water": false,
-      "dwelling": null,
-      "fertility": "grass",
+      "dwelling": {
+        "type": "huts"
+      },
+      "fertility": "luxurious",
       "carving": null
     }
   },
   "[7, 22]": {
     "q": 7,
     "r": 22,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[7, 23]": {
+    "q": 7,
+    "r": 23,
     "color": "luxurious",
     "border": null,
     "data": {
@@ -7365,19 +7412,6 @@
         "type": "huts"
       },
       "fertility": "luxurious",
-      "carving": null
-    }
-  },
-  "[7, 23]": {
-    "q": 7,
-    "r": 23,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
       "carving": null
     }
   },
@@ -7400,7 +7434,7 @@
     "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": true,
       "dwelling": null,
       "fertility": null,
@@ -7416,7 +7450,7 @@
       "ground_strength": 3,
       "water": false,
       "dwelling": {
-        "type": null
+        "type": "huts"
       },
       "fertility": "luxurious",
       "carving": null
@@ -7425,6 +7459,21 @@
   "[5, 27]": {
     "q": 5,
     "r": 27,
+    "color": "luxurious",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": {
+        "type": null
+      },
+      "fertility": "luxurious",
+      "carving": null
+    }
+  },
+  "[4, 28]": {
+    "q": 4,
+    "r": 28,
     "color": "water",
     "border": null,
     "data": {
@@ -7435,31 +7484,16 @@
       "carving": null
     }
   },
-  "[4, 28]": {
-    "q": 4,
-    "r": 28,
-    "color": "water",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": true,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
   "[4, 29]": {
     "q": 4,
     "r": 29,
-    "color": "luxurious",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": {
-        "type": null
-      },
-      "fertility": "luxurious",
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
       "carving": null
     }
   },
@@ -7505,6 +7539,19 @@
   "[18, 3]": {
     "q": 18,
     "r": 3,
+    "color": "sand_peak",
+    "border": null,
+    "data": {
+      "ground_strength": 3,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[17, 4]": {
+    "q": 17,
+    "r": 4,
     "color": "sand_high",
     "border": null,
     "data": {
@@ -7515,26 +7562,13 @@
       "carving": null
     }
   },
-  "[17, 4]": {
-    "q": 17,
-    "r": 4,
-    "color": "sand",
-    "border": null,
-    "data": {
-      "ground_strength": 1,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
   "[17, 5]": {
     "q": 17,
     "r": 5,
-    "color": "sand_peak",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -7544,10 +7578,10 @@
   "[16, 6]": {
     "q": 16,
     "r": 6,
-    "color": "sand_peak",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -7583,10 +7617,10 @@
   "[15, 9]": {
     "q": 15,
     "r": 9,
-    "color": "sand_peak",
+    "color": "sand",
     "border": null,
     "data": {
-      "ground_strength": 3,
+      "ground_strength": 1,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -7596,10 +7630,10 @@
   "[14, 10]": {
     "q": 14,
     "r": 10,
-    "color": "sand",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -7609,10 +7643,10 @@
   "[14, 11]": {
     "q": 14,
     "r": 11,
-    "color": "sand",
+    "color": "sand_high",
     "border": null,
     "data": {
-      "ground_strength": 1,
+      "ground_strength": 2,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -7635,10 +7669,10 @@
   "[13, 13]": {
     "q": 13,
     "r": 13,
-    "color": "sand_high",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -7661,10 +7695,10 @@
   "[12, 15]": {
     "q": 12,
     "r": 15,
-    "color": "sand_high",
+    "color": "sand_peak",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
       "fertility": null,
@@ -7687,84 +7721,6 @@
   "[11, 17]": {
     "q": 11,
     "r": 17,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[10, 18]": {
-    "q": 10,
-    "r": 18,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
-      "carving": null
-    }
-  },
-  "[10, 19]": {
-    "q": 10,
-    "r": 19,
-    "color": "herb",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": "herb",
-      "carving": null
-    }
-  },
-  "[9, 20]": {
-    "q": 9,
-    "r": 20,
-    "color": "grass",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": "grass",
-      "carving": null
-    }
-  },
-  "[9, 21]": {
-    "q": 9,
-    "r": 21,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[8, 22]": {
-    "q": 8,
-    "r": 22,
-    "color": "sand_high",
-    "border": null,
-    "data": {
-      "ground_strength": 2,
-      "water": false,
-      "dwelling": null,
-      "fertility": null,
-      "carving": null
-    }
-  },
-  "[8, 23]": {
-    "q": 8,
-    "r": 23,
     "color": "sand_peak",
     "border": null,
     "data": {
@@ -7775,29 +7731,107 @@
       "carving": null
     }
   },
-  "[7, 24]": {
-    "q": 7,
-    "r": 24,
-    "color": "grass",
+  "[10, 18]": {
+    "q": 10,
+    "r": 18,
+    "color": "sand",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[10, 19]": {
+    "q": 10,
+    "r": 19,
+    "color": "sand_peak",
     "border": null,
     "data": {
       "ground_strength": 3,
       "water": false,
       "dwelling": null,
-      "fertility": "grass",
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[9, 20]": {
+    "q": 9,
+    "r": 20,
+    "color": "sand_high",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[9, 21]": {
+    "q": 9,
+    "r": 21,
+    "color": "herb",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": false,
+      "dwelling": null,
+      "fertility": "herb",
+      "carving": null
+    }
+  },
+  "[8, 22]": {
+    "q": 8,
+    "r": 22,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[8, 23]": {
+    "q": 8,
+    "r": 23,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 1,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
+      "carving": null
+    }
+  },
+  "[7, 24]": {
+    "q": 7,
+    "r": 24,
+    "color": "water",
+    "border": null,
+    "data": {
+      "ground_strength": 2,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
       "carving": null
     }
   },
   "[7, 25]": {
     "q": 7,
     "r": 25,
-    "color": "grass",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 2,
-      "water": false,
+      "ground_strength": 1,
+      "water": true,
       "dwelling": null,
-      "fertility": "grass",
+      "fertility": null,
       "carving": null
     }
   },
@@ -7817,15 +7851,13 @@
   "[6, 27]": {
     "q": 6,
     "r": 27,
-    "color": "luxurious",
+    "color": "water",
     "border": null,
     "data": {
-      "ground_strength": 3,
-      "water": false,
-      "dwelling": {
-        "type": "huts"
-      },
-      "fertility": "luxurious",
+      "ground_strength": 2,
+      "water": true,
+      "dwelling": null,
+      "fertility": null,
       "carving": null
     }
   },
@@ -7845,13 +7877,13 @@
   "[5, 29]": {
     "q": 5,
     "r": 29,
-    "color": "herb",
+    "color": "grass",
     "border": null,
     "data": {
-      "ground_strength": 2,
+      "ground_strength": 3,
       "water": false,
       "dwelling": null,
-      "fertility": "herb",
+      "fertility": "grass",
       "carving": null
     }
   }

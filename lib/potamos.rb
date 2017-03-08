@@ -17,7 +17,7 @@ class Potamos
     @dest_hex = @ground.cget( @cols/2, @rows-1 )
     @dest_hex.data.water = true
 
-    h = @ground.cget( @cols/2, 1 )
+    h = @ground.cget( @cols/2, 0 )
     h.data.water = true
 
     while( h && h != @dest_hex )

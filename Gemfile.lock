@@ -1,8 +1,12 @@
+PATH
+  remote: ../rhex
+  specs:
+    rhex (2.0.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
     hazard (1.0.3)
-    rhex (2.0.2)
     rmagick (2.16.0)
 
 PLATFORMS
@@ -10,7 +14,7 @@ PLATFORMS
 
 DEPENDENCIES
   hazard
-  rhex
+  rhex!
   rmagick
 
 BUNDLED WITH
