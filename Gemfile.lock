@@ -1,20 +1,26 @@
-PATH
-  remote: ../rhex
-  specs:
-    rhex (2.0.2)
-
 GEM
   remote: https://rubygems.org/
   specs:
+    coffee-script (2.4.1)
+      coffee-script-source
+      execjs
+    coffee-script-source (1.12.2)
+    execjs (2.7.0)
+    haml (4.0.7)
+      tilt
     hazard (1.0.3)
+    rhex (2.0.3)
     rmagick (2.16.0)
+    tilt (2.0.6)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  coffee-script
+  haml
   hazard
-  rhex!
+  rhex
   rmagick
 
 BUNDLED WITH
